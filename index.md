@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Lamin Seima
-subtitle:
+subtitle: Build days that haven't happened yet by inscribing
 ---
 
 Hi!, come on in
