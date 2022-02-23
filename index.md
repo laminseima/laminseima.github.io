@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Lamin Seima
-subtitle: Hi!, don't hesitate, come on in pals :)
+subtitle: Hi!, don't hesitate, come on in 0_0
 ---
 
 Welcome to the online home of Lamin Seima. 
