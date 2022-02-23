@@ -1,7 +1,9 @@
 ---
 layout: page
 title:  Lamin Seima
-subtitle: Hi!, let's come on in | Hai!, mari masuk
+subtitle: Hi!, let's come on in
+---
+subtitle: Hai!, mari masuk
 ---
 
 Welcome to the online home of Lamin Seima. 
