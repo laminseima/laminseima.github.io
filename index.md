@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  kathleen azali
-subtitle: researcher, practicing designer &amp; developer
+title:  Lamin Seima
+subtitle: Hi!, This is a journal about journey of a man in search of himself which inscribes by Ryo Firmananda 
 ---
 
 Very broadly, I work in the histories and intersections of information, (digital) technology, design, and society.
