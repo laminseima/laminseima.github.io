@@ -1,21 +1,13 @@
 ---
 layout: page
 title:  Lamin Seima
-subtitle: Build days that haven't happened yet by inscribing
+subtitle: Build days that haven't happened yet by inscribing while sipping some cups of thought
 ---
 
 Hi!, come on in
 
 Welcome to the online home of Lamin Seima. 
 There are cups of thought here, you can enjoy some of those too. 
-Those are served by me, Ryo Firmananda. 
-I personally decided to openly share those with the hope that we can discuss directly at one table while accompanied by a cup of drink
+Those are served by me myself, Ryo. I hope these cups of thought help quench your thirst
 
 ---
-
-Hai!, mari masuk
-
-Welcome to the online home of Lamin Seima. 
-There are cups of thought here, you can enjoy some of those too. 
-Those are served by me, Ryo Firmananda. 
-I personally decided to openly share those with the hope that we can discuss directly at one table while accompanied by a cup of drink
