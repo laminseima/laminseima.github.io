@@ -4,4 +4,7 @@ title:  Lamin Seima
 subtitle: Hi!, don't hesitate, come on in pals :)
 ---
 
-Welcome to the online home of Lamin Seima. There is a virtual space in it called Journey Journal. It is a journal about journey of a man in search of himself, which inscribed by me, Ryo Firmananda. I personally decided to openly share my own personal "journey" at this online home
+Welcome to the online home of Lamin Seima. 
+There are cups of thought here, you can enjoy some of those too. 
+Those are served by me, Ryo Firmananda. 
+I personally decided to openly share those with the hope that we can discuss directly at one table while accompanied by a cup of drink
