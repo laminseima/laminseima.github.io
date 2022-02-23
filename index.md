@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Lamin Seima
-subtitle: Build days that haven't happened yet by inscribing while sipping some cups of thought
+subtitle: Living by inscribing
 ---
 
 Hi!, come on in
