@@ -1,11 +1,10 @@
 ---
 layout: page
 title:  Lamin Seima
-subtitle: Hi!, let's come on in
----
-subtitle: Hai!, mari masuk
+subtitle:
 ---
 
+Hi!, come on in.
 Welcome to the online home of Lamin Seima. 
 There are cups of thought here, you can enjoy some of those too. 
 Those are served by me, Ryo Firmananda. 
