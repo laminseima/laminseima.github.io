@@ -1,12 +1,9 @@
 ---
 layout: page
-title: 
-subtitle: Lamin Seima
+title: Lamin Seima
+subtitle: Living by inscribing
 ---
-<p style="text-align: center;">Living by inscribing</p>
-
-
-Hi!, welcome to the online home of Lamin Seima. Come on in. 
+<p style="text-align: center;">Hi!, welcome to the online home of Lamin Seima. Come on in.</p> 
 
 > There are cups of thought here, you can enjoy some of those too. Those are served by me myself, Ryo.
 > I hope those cups of thought help quench your thirst.
