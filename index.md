@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lamin Seima
-subtitle: Living by Inscribing
+subtitle: Inscribing The Path
 ---
 <p style="text-align: center;">Hi!, welcome to the online home of Lamin Seima. Come on in.</p> 
 
