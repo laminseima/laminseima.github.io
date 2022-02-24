@@ -19,6 +19,9 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
+  Cups of Thought:
+    - Internasional Language: "https://blablabla.com"
+    - Local Language: "https://www.blablabla.com/"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
