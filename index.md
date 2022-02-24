@@ -1,8 +1,10 @@
 ---
 layout: page
-title:  Lamin Seima
-subtitle: Living by inscribing
+title:  Hi!
+subtitle: Lamin Seima
 ---
+
+<p style="text-align: center;">Living by inscribing</p>
 
 Hi!, welcome to the online home of Lamin Seima. Come on in. 
 
@@ -10,4 +12,4 @@ Hi!, welcome to the online home of Lamin Seima. Come on in.
 > I hope those cups of thought help quench your thirst.
 > So that you can go along build your days that haven't happened yet while sipping these cups of thought. 
 
-Enjoy it ^_^
+Enjoy it (^_^)
