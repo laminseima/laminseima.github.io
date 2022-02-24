@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lamin Seima
-subtitle: Living by inscribing
+title: Terrace
+subtitle: Journey Journal
 ---
 <p style="text-align: center;">Hi!, welcome to the online home of Lamin Seima. Come on in.</p> 
 
