@@ -9,4 +9,5 @@ subtitle: Living by inscribing
 > I hope those cups of thought help quench your thirst.
 > So that you can go along build your days that haven't happened yet while sipping these cups of thought. 
 
-<p style="text-align: center;">Enjoy it (^_^)</p>
+<p style="text-align: center;">Enjoy it</p>
+<p style="text-align: center;">(^_^)</p>
