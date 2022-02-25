@@ -17,7 +17,7 @@ subtitle: Inscribing The Path
 
 <p style="text-align: center;">• • • • •</p>
 
-<p style="text-align: center;">Hallo dan selamat datang! ini adalah rumah *online* <b>Lamin Seima</b>. Mari masuk.</p>
+<p style="text-align: center;">Hallo dan selamat datang! ini adalah rumah <em>online</em> <b>Lamin Seima</b>. Mari masuk.</p>
 
 > There are cups of thought here, you can enjoy some of those too. Those are served by me myself, Ryo.
 > I hope those cups of thought help quench your thirst.
