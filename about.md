@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glimpse
+title:
 subtitle: Message over Figure
 ---
 
