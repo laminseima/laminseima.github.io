@@ -9,7 +9,7 @@ subtitle: Inscribing The Path
 > I hope those cups of thought help quench your thirst.
 > So that you can go along build your days that haven't happened yet while sipping these cups of thought. 
 
-You can enjoy cups of thought in english on [Medium](https://medium.com/@laminseima) 
-or in more elaborate fathion on [Substack](https://laminseima.substack.com), but if you are more comfortable in bahasa indonesia, then just go here.
+You can enjoy cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
+or in more elaborate fashion on [Substack](https://laminseima.substack.com), but if you are more comfortable in bahasa indonesia, then just go here .
 
 <p style="text-align: center;">Don't hesitate, enjoy it pals</p>
