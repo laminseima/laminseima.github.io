@@ -9,5 +9,4 @@ subtitle: Inscribing The Path
 > I hope those cups of thought help quench your thirst.
 > So that you can go along build your days that haven't happened yet while sipping these cups of thought. 
 
-<p style="text-align: center;">Don't hesitate, enjoy it pals</p>
-<p style="text-align: center;">(^_^)</p>
+<p style="text-align: center;">Don't hesitate, enjoy it pals :wink:</p>
