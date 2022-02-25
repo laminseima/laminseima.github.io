@@ -3,7 +3,7 @@ layout: page
 title: Lamin Seima
 subtitle: Inscribing The Path
 ---
-<p style="text-align: center;">Hallo and welcome! this is the online home of <b>Lamin Seima</b>. Come on in.</p>
+<p style="text-align:center;">Hallo! come on in!. This is the online home of <b>Lamin Seima</b></p>
 
 > There are cups of thought here, you can enjoy some of those too. Those are served by me myself, Ryo.
 > I hope those cups of thought help quench your thirst.
@@ -15,7 +15,7 @@ subtitle: Inscribing The Path
 
 <p style="text-align: center;">Don't hesitate, enjoy it pals</p>
 
-<p style="color:black;font-size:12px;">
+<p style="text-align:center;color:black;font-size:12px;">
 If you have a bit curiosity about the author, 
 you read it <a href="https://laminseima.github.io/about/">here</a>,
 although it is not suggested.
