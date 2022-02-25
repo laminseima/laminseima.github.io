@@ -17,6 +17,6 @@ subtitle: Inscribing The Path
 
 <p style="color:blue;font-size:18px;">
 If you have a bit curiosity about the author, 
-you read it [here](https://laminseima.github.io/about/),
-although it is not suggested
+you read it <a href="https://laminseima.github.io/about/">here</a>,
+although it is not suggested.
 </p>
