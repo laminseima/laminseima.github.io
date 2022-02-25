@@ -14,3 +14,5 @@ subtitle: Inscribing The Path
 > but if you are more comfortable in bahasa indonesia, then just go [here](https://laminseima.github.io/about/).
 
 <p style="text-align: center;">Don't hesitate, enjoy it pals</p>
+
+<p style="text-align: center;">• • • • •</p>
