@@ -3,8 +3,7 @@ layout: page
 title: Lamin Seima
 subtitle: Inscribing The Path
 ---
-<p style="text-align: center;">Hallo and welcome!</p>
-<p style="text-align: center;">This is the online home of <b>Lamin Seima</b>. Come on in.</p>
+<p style="text-align: center;">Hallo and welcome!. This is the online home of <b>Lamin Seima</b>. Come on in.</p>
 
 > There are cups of thought here, you can enjoy some of those too. Those are served by me myself, Ryo.
 > I hope those cups of thought help quench your thirst.
