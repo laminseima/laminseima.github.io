@@ -10,4 +10,4 @@ subtitle: Inscribing The Path
 > So that you can go along build your days that haven't happened yet while sipping these cups of thought. 
 
 <p style="text-align: center;">Don't hesitate, enjoy it pals</p>
-:wink:
+<p style="text-align: center;">:grin:</p>
