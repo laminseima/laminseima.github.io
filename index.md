@@ -15,7 +15,7 @@ subtitle: Inscribing The Path
 
 <p style="text-align: center;">Don't hesitate, enjoy it pals</p>
 
-<p style="text-align: center;">• • • • •</p>
+<p style="text-align: center;">• • • • • • ||| • • • • •</p>
 
 <p style="text-align: center;">Hallo dan selamat datang! ini adalah rumah <em>online</em> <b>Lamin Seima</b>. Mari masuk.</p>
 
