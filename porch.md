@@ -13,10 +13,10 @@ subtitle: Inscribing The Path
 > or in more elaborate fashion on [Substack](https://laminseima.substack.com), 
 > but if you are more comfortable in bahasa indonesia, then just go [here](https://laminseima.github.io/about/).
 
-<p style="text-align: center;">Don't hesitate, enjoy it pals</p>
-<br>
-<p style="text-align:center;color:grey;font-size:12px;">
+<p style="text-align:center;color:grey;font-size:10px;">
 If you have a bit curiosity about the author, 
 you can read it <a href="https://laminseima.github.io/about/">here</a>,
 although it is not suggested.
 </p>
+
+<p style="text-align: center;">Don't hesitate, enjoy it pals</p>
