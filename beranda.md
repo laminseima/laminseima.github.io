@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lamin Seima
-subtitle: Meninggalkan Jejak
+subtitle: Meletakkan Jejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah virtual <b>Lamin Seima</b></p>
 
