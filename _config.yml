@@ -15,11 +15,11 @@ author: Ryo
 
 navbar-links:
 #  About Me: "aboutme"
-  Glimpse: "about"
+#  Glimpse: "about"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Thought: "about"
+#  Thought: "about"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
