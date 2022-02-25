@@ -3,7 +3,7 @@ layout: page
 title: Hello World
 subtitle: Inscribing The Path
 ---
-<p style="text-align: center;">Hi!, welcome to the online home of **Lamin Seima**. Come on in.</p> 
+<p style="text-align: center;">Hi!, welcome to the online home of <b>Lamin Seima</b>. Come on in.</p> 
 
 > There are cups of thought here, you can enjoy some of those too. Those are served by me myself, Ryo.
 > I hope those cups of thought help quench your thirst.
