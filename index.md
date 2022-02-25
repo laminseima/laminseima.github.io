@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lamin Seima
+title: Lamin • Seima
 subtitle: Inscribing The Path
 ---
 <p style="text-align: center;">Hi!, welcome to the online home of Lamin Seima. Come on in.</p> 
@@ -10,4 +10,4 @@ subtitle: Inscribing The Path
 > So that you can go along build your days that haven't happened yet while sipping these cups of thought. 
 
 <p style="text-align: center;">Don't hesitate, enjoy it pals</p>
-<p style="text-align: center;">:grin:</p>
+<p style="text-align: center;">{^.^}</p>
