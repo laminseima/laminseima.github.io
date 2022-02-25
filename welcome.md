@@ -15,5 +15,8 @@ subtitle: Inscribing The Path
 
 <p style="text-align: center;">Don't hesitate, enjoy it pals</p>
 
-if you have a bit curiosity about the author, 
-you read it [here](https://laminseima.github.io/about/), although it is not suggested
+<p style="color:blue;font-size:18px;">
+If you have a bit curiosity about the author, 
+you read it [here](https://laminseima.github.io/about/),
+although it is not suggested
+</p>
