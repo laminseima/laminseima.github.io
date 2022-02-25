@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lamin Seima
+title: Hello World
 subtitle: Inscribing The Path
 ---
 <p style="text-align: center;">Hi!, welcome to the online home of Lamin Seima. Come on in.</p> 
