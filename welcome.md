@@ -7,7 +7,7 @@ subtitle: Inscribing The Path
 
 > There are cups of thought here, you can enjoy some of those too. Those are served by me myself, Ryo.
 > I hope those cups of thought help quench your thirst.
-> So that you can go along build your days that haven't happened yet while sipping these cups of thought. 
+> So that you can go along build your days that haven't happened yet. 
 
 > Enjoy cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
 > or in more elaborate fashion on [Substack](https://laminseima.substack.com), 
