@@ -19,9 +19,7 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Thought:
-    - Eng: "about"
-    - Ind: "about"
+  Thought: "about"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
