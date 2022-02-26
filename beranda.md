@@ -5,7 +5,7 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah maya <b>Lamin Seima</b></p>
 
-> Ada cangkir-cangkir berisikan pandangan yang saudara juga bisa nikmati beberapa di antaranya.
+> Tersaji cangkir-cangkir berisikan pandangan, yang saudara juga bisa nikmati beberapa di antaranya.
 > Itu semua disajikan oleh diri saya sendiri sebagai tuan rumah dan pramusaji disini.
 > Saya harap cangkir-cangkir berisikan pandangan ini membantu melegakan rasa dahaga saudara.
 > Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi. 
