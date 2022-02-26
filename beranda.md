@@ -9,7 +9,7 @@ subtitle: Menjejak Langkah
 > Siapapun yang berkunjung boleh menikatinya.
 > Semua sajian itu disuguhkan oleh diri saya sendiri sebagai tuan rumah dan sekaligus pramusaji.
 
-> Kita mengetahui bahwa tidak ada sesuatu pun yang terjadi secara serta-merta.
+> Tiada sesuatu pun yang terjadi secara serta-merta.
 > Maka itu, apa yang ada di dalam setiap cangkir sesungguhnya
 > melibatkan proses memperhatikan, berpikir, dan merenung. Sehingga terbentuklah suatu pandangan. 
 
