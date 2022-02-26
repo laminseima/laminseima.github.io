@@ -13,7 +13,7 @@ subtitle: Menjejak Langkah
 > or in more elaborate fashion on [Substack](https://laminseima.substack.com), 
 > but if you are more comfortable in bahasa indonesia, then just go [here](https://laminseima.github.io/about/).
 
-<p style="text-align: center;">Don't hesitate, enjoy it pals</p>
+<p style="text-align: center;">Itu saja, selamat menikmati kawan</p>
 
 <p style="text-align:center;color:grey;font-size:11px;">
 Jika saudara mempunyai sedikit keingintahuan tentang penulis, 
