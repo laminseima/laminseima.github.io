@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Selayang Pandang
-subtitle: Message over Figure
+subtitle: Pesan ketimbang Sosok
 ---
 
 My name is Inigo Montoya. I have the following qualities:
