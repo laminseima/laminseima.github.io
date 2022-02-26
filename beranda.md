@@ -6,7 +6,7 @@ subtitle: Menjejak Langkah
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah maya <b>Lamin Seima</b></p>
 
 > Disini tersaji cangkir-cangkir berisikan pandangan.
-> Siapapun yang berkunjung boleh menikatinya. Saudara juga bisa nikmati beberapa di antaranya.
+> Siapapun yang berkunjung boleh menikatinya.
 > Semua sajian itu disuguhkan oleh diri saya sendiri sebagai tuan rumah dan sekaligus pramusaji.
 
 > Kita mengetahui bahwa tidak ada sesuatu pun yang terjadi secara serta-merta.
