@@ -17,5 +17,6 @@ subtitle: Menjejak Langkah
 
 <p style="text-align:center;color:grey;font-size:11px;">
 Jika saudara mempunyai sedikit keingintahuan tentang penulis, 
-saudara bisa membacanya <a href="https://laminseima.github.io/about/">disini</a>.
+saudara bisa membacanya <a href="https://laminseima.github.io/about/">disini</a>,
+meskipun sebentulnya tidak disarankan.
 </p>
