@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lamin Seima
-subtitle: Meletakkan Jejak Langkah
+subtitle: Menejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah virtual <b>Lamin Seima</b></p>
 
@@ -15,7 +15,7 @@ subtitle: Meletakkan Jejak Langkah
 
 <p style="text-align: center;">Don't hesitate, enjoy it pals</p>
 
-<p style="text-align:center;color:grey;font-size:10px;">
+<p style="text-align:center;color:grey;font-size:11px;">
 Jikalau saudara mempunyai sedikit keingintahuan tentang penulis, 
 saudara bisa membacanya <a href="https://laminseima.github.io/about/">disini</a>,
 meskipun hal ini sebenarnya tidak disarankan.
