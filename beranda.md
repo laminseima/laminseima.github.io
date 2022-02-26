@@ -5,16 +5,17 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah virtual <b>Lamin Seima</b></p>
 
-> Ada cangkir-cangkir yang berisikan pandangan yang saudara dapat menikmati beberapa di antaranya juga.
-> Itu semua disajikan oleh diri saya sebagai tuan rumah dan pramusaji disini.
-> Saya harap cangkir-cangkir yang berisikan pandangan ini membantu melegakan rasa dahaga saudara.
+> Ada cangkir-cangkir berisikan pandangan yang saudara juga bisa nikmati beberapa di antaranya.
+> Itu semua disajikan oleh diri saya sendiri sebagai tuan rumah dan pramusaji disini.
+> Saya harap cangkir-cangkir berisikan pandangan ini membantu melegakan rasa dahaga saudara.
 > Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi. 
 
-> Nikmati cangkir-cangkir yang berisikan ppandangan dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima) 
-> atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com), 
-> tetapi kalau saudara lebih nyaman dalam bahasa indonesia, silakan menuju [kesini](https://laminseima.github.io/about/).
+> Nikmati cangkir-cangkir berisikan pandangan tersebut [disini](https://laminseima.github.io/about/).
+> Tetapi kalau saudara lebih nyaman menikmatinya dalam bahasa inggris, saudara bisa memilih dua opsi.
+> Dalam bentuk ringkas-padat dapat dinikmati di [Medium](https://medium.com/@laminseima),
+> atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
-<p style="text-align: center;">Itu saja, selamat menikmati kawan</p>
+<p style="text-align: center;">Itu saja kawan, selamat menikmati kawan</p>
 
 <p style="text-align:center;color:grey;font-size:12px;">
 Jika saudara mempunyai sedikit keingintahuan tentang tuan rumah & pramusaji (penulis), 
