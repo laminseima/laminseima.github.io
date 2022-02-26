@@ -19,6 +19,5 @@ subtitle: Menjejak Langkah
 
 <p style="text-align:center;color:grey;font-size:12px;">
 Kalau saudara ada sedikit keingintahuan tentang tuan rumah & pramusaji (penulis), 
-saudara bisa membacanya <a href="https://laminseima.github.io/selayangpandang/">disini</a>,
-meskipun sebentulnya tidak disarankan.
+saudara bisa membacanya <a href="https://laminseima.github.io/selayangpandang/">disini</a>.
 </p>
