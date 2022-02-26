@@ -5,13 +5,14 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah virtual <b>Lamin Seima</b></p>
 
-> There are cups of thought here, you can enjoy some of those too. Those are served by me myself, Ryo.
-> I hope those cups of thought help quench your thirst.
-> So that you can go along build your days that haven't happened yet. 
+> Ada cangkir-cangkir yang berisikan pandangan yang saudara dapat menikmati beberapa di antaranya juga.
+> Itu semua disajikan oleh diri saya sendiri, Ryo.
+> Saya harap cangkir-cangkir yang berisikan pandangan ini membantu melegakan rasa dahaga saudara.
+> Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi. 
 
-> Enjoy cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
-> or in more elaborate fashion on [Substack](https://laminseima.substack.com), 
-> but if you are more comfortable in bahasa indonesia, then just go [here](https://laminseima.github.io/about/).
+> Nikmati cangkir-cangkir yang berisikan ppandangan dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima) 
+> atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com), 
+> tetapi kalau saudara lebih nyaman dalam bahasa indonesia, silakan menuju [kesini](https://laminseima.github.io/about/).
 
 <p style="text-align: center;">Itu saja, selamat menikmati kawan</p>
 
