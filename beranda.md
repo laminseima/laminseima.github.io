@@ -5,10 +5,17 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah maya <b>Lamin Seima</b></p>
 
-> Tersaji cangkir-cangkir berisikan pandangan disini yang saudara juga bisa nikmati beberapa di antaranya.
-> Itu semua disajikan oleh diri saya sendiri sebagai tuan rumah dan pramusaji.
-> Saya harap cangkir-cangkir berisikan pandangan ini membantu melegakan rasa dahaga saudara.
-> Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi. 
+> Disini tersaji cangkir-cangkir berisikan pandangan disini.
+> Siapapun yang berkunjung boleh menikatinya. Saudara juga bisa nikmati beberapa di antaranya.
+> Semua sajian itu disuguhkan oleh diri saya sendiri sebagai tuan rumah dan pramusaji.
+
+> Tidak ada sesuatu yang terjadi secara serta-merta.
+> Maka itu, apa yang ada di dalam setiap cangkir sesungguhnya
+> melibatkan proses memperhatikan, berpikir, dan merenung. Sehingga terbentuklah suatu pandangan. 
+
+> Saya harap cangkir-cangkir berisikan pandangan ini membantu melegakan rasa dahaga saudara 
+> dalam bingkai "seseorang yang mencari dirinya sendiri".
+> Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi di depan. 
 
 > Silakan nikmati cangkir-cangkir berisikan pandangan tersebut [disini](https://laminseima.github.io/about/).
 > Tetapi kalau saudara lebih nyaman menikmatinya dalam bahasa inggris, saudara punya dua opsi.
