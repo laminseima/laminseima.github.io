@@ -18,6 +18,6 @@ subtitle: Inscribing The Path
 
 <p style="text-align:center;color:grey;font-size:12px;">
 If you have a bit curiosity about the host (author), 
-you can read it <a href="https://laminseima.github.io/about/">here</a>,
+you can read it <a href="https://laminseima.github.io/glimpse/">here</a>,
 although it is actually not suggested.
 </p>
