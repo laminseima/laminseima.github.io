@@ -15,7 +15,7 @@ subtitle: Menjejak Langkah
 > Dalam bentuk ringkas-padat dapat dinikmati di [Medium](https://medium.com/@laminseima),
 > atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
-<p style="text-align: center;">Itu saja kawan, selamat menikmati kawan</p>
+<p style="text-align: center;">Itu saja kawan, selamat menikmati</p>
 
 <p style="text-align:center;color:grey;font-size:12px;">
 Jika saudara mempunyai sedikit keingintahuan tentang tuan rumah & pramusaji (penulis), 
