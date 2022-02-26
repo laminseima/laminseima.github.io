@@ -10,7 +10,7 @@ subtitle: Menjejak Langkah
 > Saya harap cangkir-cangkir berisikan pandangan ini membantu melegakan rasa dahaga saudara.
 > Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi. 
 
-> Nikmati cangkir-cangkir berisikan pandangan tersebut [disini](https://laminseima.github.io/about/).
+> Silakan nikmati cangkir-cangkir berisikan pandangan tersebut [disini](https://laminseima.github.io/about/).
 > Tetapi kalau saudara lebih nyaman menikmatinya dalam bahasa inggris, saudara punya dua opsi.
 > Dalam bentuk ringkas-padat dapat dinikmati di [Medium](https://medium.com/@laminseima),
 > atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
