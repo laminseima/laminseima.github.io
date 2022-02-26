@@ -5,9 +5,9 @@ subtitle: Inscribing The Path
 ---
 <p style="text-align:center;">Hallo! come on in!. This is the online home of <b>Lamin Seima</b></p>
 
-> There are cups of thought here, you can enjoy some of those too. Those are served by me myself, Ryo.
-> I hope those cups of thought help quench your thirst.
-> So that you can go along build your days that haven't happened yet. 
+> There are cups of thought here which you can enjoy some of those too. Those are served by me myself, Ryo.
+> I hope these cups of thought help quench your thirst.
+> So that you can continue your efforts to go along build your days that haven't happened yet. 
 
 > Enjoy cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
 > or in more elaborate fashion on [Substack](https://laminseima.substack.com), 
