@@ -15,7 +15,7 @@ subtitle: Menjejak Langkah
 
 <p style="text-align: center;">Itu saja, selamat menikmati kawan</p>
 
-<p style="text-align:center;color:grey;font-size:11px;">
+<p style="text-align:center;color:grey;font-size:12px;">
 Jika saudara mempunyai sedikit keingintahuan tentang penulis, 
 saudara bisa membacanya <a href="https://laminseima.github.io/about/">disini</a>,
 meskipun sebentulnya tidak disarankan.
