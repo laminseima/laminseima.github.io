@@ -6,7 +6,7 @@ subtitle: Menjejak Langkah
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah virtual <b>Lamin Seima</b></p>
 
 > Ada cangkir-cangkir yang berisikan pandangan yang saudara dapat menikmati beberapa di antaranya juga.
-> Itu semua disajikan oleh diri saya sendiri, Ryo.
+> Itu semua disajikan oleh diri saya sebagai tuan rumah dan pramusaji disini.
 > Saya harap cangkir-cangkir yang berisikan pandangan ini membantu melegakan rasa dahaga saudara.
 > Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi. 
 
