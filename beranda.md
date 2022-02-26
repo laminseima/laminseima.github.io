@@ -13,8 +13,9 @@ subtitle: Menjejak Langkah
 > Maka itu, apa yang ada di dalam setiap cangkir sesungguhnya
 > melibatkan proses memperhatikan, berpikir, dan merenung. Sehingga terbentuklah suatu pandangan. 
 
-> Saya harap pandangan yang tersaji di dalam cangkir-cangkir ini membantu melegakan rasa dahaga saudara 
-> dalam bingkai "seseorang yang mencari dirinya sendiri".
+> Dengan bingkai "seseorang yang mencari dirinya sendiri",
+> saya harap pandangan yang tersaji di dalam cangkir-cangkir ini 
+> membantu melegakan rasa dahaga saudara dalam pencarian tersebut.
 > Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi di depan. 
 
 > Silakan nikmati cangkir-cangkir berisikan pandangan tersebut [disini](https://laminseima.github.io/about/).
