@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jurnal
-subtitle: Perjalanan hehehe
+subtitle: Perjalanan hehehe tak tok
 ---
 
 <!-- 
@@ -91,7 +91,6 @@ subtitle: Perjalanan hehehe
    </article>
   {% endfor %}
 </div>
--->
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
@@ -107,3 +106,5 @@ subtitle: Perjalanan hehehe
   {% endif %}
 </ul>
 {% endif %}
+
+-->
