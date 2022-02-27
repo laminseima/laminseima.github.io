@@ -36,6 +36,7 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+dhfbgjhdfgjh bgidfgjbuhnrjig
 
 # --- Footer social media links --- #
 
@@ -230,7 +231,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "/_layouts/jurnal.html"
+      path: ""
       type: "posts"
     values:
       layout: "post"
