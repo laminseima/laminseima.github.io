@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Jurnal
+subtitle: Perjalanan
 ---
 
 {% include header.html type="post" %}
