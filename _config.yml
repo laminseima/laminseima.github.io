@@ -230,7 +230,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: "laminseima.github.io/jurnal.md"
       type: "posts"
     values:
       layout: "post"
