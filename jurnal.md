@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-<!--
+
 
 {% assign posts = paginator.posts | default: site.posts %}
 
@@ -106,4 +106,3 @@ layout: page
 </ul>
 {% endif %}
 
--->
