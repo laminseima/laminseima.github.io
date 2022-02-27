@@ -56,7 +56,7 @@ a:focus {
 }
 */
 a {
-  color: {{ site.link-col | default: "#FF4F00" }};
+  color: {{ site.link-col | default: "#FF4D00" }};
 }
 a:hover,
 a:focus {
