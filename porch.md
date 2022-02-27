@@ -11,8 +11,7 @@ subtitle: Inscribing The Path
 > So that you can continue your efforts to go along build your days that haven't happened yet. 
 
 > Enjoy these cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
-> or in more elaborate fashion on [Substack](https://laminseima.substack.com), 
-> but if you are more comfortable in bahasa indonesia, then just go [here](https://laminseima.github.io/about/).
+> or in more elaborate fashion on [Substack](https://laminseima.substack.com).
 
 <p style="text-align: center;">That's it pals, enjoy it</p>
 
