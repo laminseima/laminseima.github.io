@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Jurnal
-subtitle: Perjalanan hehehe tak tok
 ---
 
 <!-- 
