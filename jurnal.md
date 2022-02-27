@@ -8,7 +8,6 @@ subtitle: Perjalanan
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
--->
 
 <div class="posts-list">
   {% for post in posts %}
@@ -92,6 +91,7 @@ subtitle: Perjalanan
    </article>
   {% endfor %}
 </div>
+-->
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
