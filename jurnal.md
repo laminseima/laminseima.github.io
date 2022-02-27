@@ -4,9 +4,11 @@ title: Jurnal
 subtitle: Perjalanan
 ---
 
-<!-- {{ content }} -->
+<!-- 
+{{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
+-->
 
 <div class="posts-list">
   {% for post in posts %}
