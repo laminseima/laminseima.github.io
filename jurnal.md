@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Selayang Pandang
-subtitle: Pesan ketimbang Sosok
+layout: post
+title: Jurnal
+subtitle: Jurnal Perjalanan
 ---
 
 My name is Inigo Montoya. I have the following qualities:
