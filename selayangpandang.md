@@ -29,7 +29,7 @@ Saya juga yang mengelola dan merawat ruang ini di setiap sepulang perjalanan.
 > hadir penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi.
 > Perjalanan yang membutuhkan keterbukaan untuk memikirkan hubung-kait yang ada
 > Perjalanan yang juga membutuhkan kejernihan kalbu untuk menggali kedalaman makna.
-> Menurut saya, inilah hal yang lebh esensial.
+> Menurut saya, inilah hal yang lebih esensial.
 
 <p style="text-align:center;">
   <a href="https://laminseima.github.io/beranda/">Kembali ke Beranda</a>
