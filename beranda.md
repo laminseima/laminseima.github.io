@@ -24,7 +24,7 @@ subtitle: Menjejak Langkah
 
 <p style="text-align: center;">Itu saja kawan, selamat menikmati</p>
 
-<p style="text-align:center;color:grey;font-size:12px;">
+<p style="text-align:center;color:grey;font-size:13px;">
 Kalau saudara ada sedikit keingintahuan tentang tuan rumah sekaligus pramusaji (penulis), 
 saudara bisa membacanya <a href="https://laminseima.github.io/selayangpandang/">disini</a>.
 </p>
