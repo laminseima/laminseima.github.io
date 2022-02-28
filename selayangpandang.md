@@ -13,7 +13,7 @@ Saya juga yang mengelola dan merawat ruang ini di setiap sepulang perjalanan.
 > Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lain, 
 > seperti yang pernah dilakukan oleh Robert Pirsig.
 > Suatu perjalanan panjang yang ia lakukan dari Minnessota ke Montana melalui Dakota
-> dengan mengendarai sepeda motor pada pertengahan paruh ke dua abad 20 masehi.
+> dengan mengendarai sepeda motor miliknya pada pertengahan paruh ke dua abad 20 masehi.
 
 > Dengan menengok contoh cerita yang saya ambil, perlu ditegaskan bahwa 
 > saya bukanlah seseorang yang sudah sangat tua yang sedang menikmati hari-hari senjanya,
