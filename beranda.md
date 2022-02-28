@@ -5,6 +5,9 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah maya <b>Lamin Seima</b></p>
 
+> Ini adalah rumah tempat jurnal perjalanan ditulis.
+> Tentu bukan itinerary, bukan juga diary. 
+
 > Disini tersaji cangkir-cangkir berisikan pandangan.
 > Siapapun yang berkunjung boleh menikatinya.
 > Semua sajian itu disuguhkan oleh diri saya sendiri sebagai tuan rumah dan sekaligus pramusaji.
