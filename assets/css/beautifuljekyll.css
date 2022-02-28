@@ -174,7 +174,6 @@ img {
   height: 2.5rem;
 }
 
-/*
 .navbar-custom .navbar-nav .nav-item {
   text-transform: capitalize;
   font-size: 0.8125rem;
@@ -211,7 +210,6 @@ img {
 .dropdown-toggle::after {
   border-width: 0.4em;
 }
-*/
 
 @media (min-width: 1200px) {
   .navbar-custom {
