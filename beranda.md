@@ -1,1 +1,19 @@
+---
+layout: page
+title: Lamin Seima
+subtitle: Menjejak Langkah
+---
+<p style="text-align:center;">Hallo! mari masuk!. Ini adalah rumah maya <b>Lamin Seima</b></p>
 
+> Disini tersaji cangkir-cangkir berisikan pandangan.
+> Siapapun yang berkunjung boleh menikatinya.
+> Semua sajian itu disuguhkan oleh diri saya sendiri sebagai tuan rumah dan sekaligus pramusaji.
+
+> Tiada sesuatu pun yang terjadi secara serta-merta.
+> Maka itu, apa yang ada di dalam setiap cangkir sesungguhnya
+> melibatkan proses memperhatikan, berpikir, dan merenung. Sehingga terbentuklah suatu pandangan. 
+
+> Dalam bingkai "seseorang yang mencari dirinya sendiri",
+> saya harap pandangan yang tersaji di dalam cangkir-cangkir ini 
+> membantu melegakan rasa dahaga saudara dalam pencarian yang (mungkin) sedang saudara lakukan juga.
+> Sehingga saudara dapat melanjutkan upaya untuk terus membangun hari-hari saudara yang belum terjadi di depan.
