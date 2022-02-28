@@ -5,8 +5,8 @@ subtitle: Pesan ketimbang Sosok
 ---
 
 Hallo Saudara, saya adalah seseorang yang sedang dalam perjalanan.
-<b>Lamin Seima</b> adalah ruang dimana saya kembali pulang dan menuliskan jurnal perjalanan tersebut.
-Saya juga yang mengelola dan merawat ruang ini di setiap sepulang perjalanan.
+Sedangkan <b>Lamin Seima</b> adalah ruang dimana saya kembali pulang dan menuliskan jurnal perjalanan tersebut.
+Ruang ini dikelola dan dirawat (masih) secara pribadi oleh saya sendiri di setiap sepulang perjalanan.
 
 > Saudara, seperti yang kita tahu, setiap perjalanan dimulai dari titik awal,
 > lalu menuju ke suatu tujuan yang sudah ditentukan sebagai titik akhir.
