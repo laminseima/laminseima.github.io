@@ -16,7 +16,7 @@ Hallo Saudara, Saya adalah seseorang yang sedang dalam perjalanan.
 > saya bukanlah seseorang yang sudah sangat tua yang sedang menikmati hari-hari senjanya,
 > namun demikian saya bukan juga seseorang yang sangat belia
 > yang masih samar-samar dalam melihat seluk-beluk kenyataan. Bagi saya, usia begitu juga nama,
-> merupakan suatu ukuran yang tidak cukup esensial untuk diketahui dalam konteks apa yang tersaji di ruang ini.
+> merupakan suatu ukuran yang tidak cukup esensial untuk ditegaskan dalam konteks apa yang tersaji di ruang ini.
 
 > Perlu diketahu dan diingat, manusia yang melakukan pencarian terhadap dirinya sendiri juga merupakan suatu perjalanan.
 > Perjalanan yang memiliki penekanan pada tujuan menemukan, dan menggali dirinya sendiri. Perjalanan yang membutuhkan bekal
