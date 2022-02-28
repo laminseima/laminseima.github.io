@@ -6,7 +6,7 @@ subtitle: Pesan ketimbang Sosok
 
 Hallo Saudara, Saya adalah seseorang yang sedang dalam perjalanan.
 
-Perjalanan tentu dimulai di titik awal menuju suatu tujuan sebagai titik akhir.
+Perjalanan tentu dimulai dari titik awal menuju suatu tujuan sebagai titik akhir.
 Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lain, 
 seperti yang pernah dilakukan oleh Robert Pirsig.
 Suatu perjalanan yang ia lakukan dari Minnessota ke Montana melalui Dakota
