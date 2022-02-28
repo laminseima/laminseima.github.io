@@ -4,7 +4,8 @@ title: Selayang Pandang
 subtitle: Pesan ketimbang Sosok
 ---
 
-Hallo Saudara, saya adalah seseorang yang sedang dalam perjalanan.
+Suatu tindakan tak terelakkan yang pasti dilakukan oleh seorang manusia adalah perjalanan.
+Jejak adalah bukti historis seseorang melangkah sepanjang perjalanan yang ia ambil.
 Setiap kali pulang, saya menuliskan jurnal perjalanan di ruang ini, di <b>Lamin Seima</b>.
 Ruang ini dikelola dan dirawat (masih) secara pribadi oleh saya sendiri di setiap sepulang perjalanan.
 
