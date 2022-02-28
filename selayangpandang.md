@@ -13,22 +13,24 @@ Ruang ini dikelola dan dirawat (masih) secara pribadi oleh saya sendiri di setia
 > Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lain, 
 > seperti yang pernah dilakukan oleh Robert Pirsig.
 > Suatu perjalanan panjang yang ia lakukan dari Minnessota ke Montana melalui Dakota
-> dengan mengendarai sepeda motor miliknya pada pertengahan paruh ke dua abad 20 masehi.
+> dengan mengendarai sepeda motor miliknya pada pertengahan paruh ke dua abad ke 20 masehi.
+> Kemudian ia publikasikan perjalanan tersebut ke dalam sebuah novel 
+> berjudul Zen and The Art of Motorcycle Maintenance pada tahun 1974.
 
 > Dengan menengok contoh cerita yang saya ambil, perlu ditegaskan bahwa 
 > saya bukanlah seseorang yang sudah sangat tua yang sedang menikmati hari-hari senjanya,
 > namun demikian saya bukan juga seseorang yang sangat belia
-> yang masih samar-samar dalam melihat seluk-beluk kenyataan. Bagi saya, usia begitu juga nama,
+> yang masih samar-samar dalam melihat seluk-beluk kenyataan. Bagi saya, usia ataupun nama,
 > merupakan suatu ukuran yang tidak cukup esensial
 > untuk ditegaskan dalam konteks apa yang tersaji di ruang ini.
 
 > Saudara, manusia yang melakukan pencarian
 > terhadap dirinya sendiri juga merupakan suatu perjalanan.
-> Perjalanan yang menitikberatkan pada tujuan menemukan
+> Perjalanan yang menitikberatkan pada usaha untuk menemukan
 > dan menggali dirinya sendiri. Perjalanan yang membutuhkan bekal
-> hadir penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi.
+> berupa kehadiran penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi.
 > Perjalanan yang membutuhkan keterbukaan untuk memikirkan hubung-kait yang ada.
-> Perjalanan yang juga membutuhkan kejernihan kalbu untuk menggali kedalaman makna.
+> Perjalanan yang juga membutuhkan kejernihan kalbu dalam memilah dan menggali kedalaman makna.
 > Menurut saya, inilah hal yang lebih esensial.
 
 <p style="text-align:center;">Salam kenal saudara, semoga kita bisa bertemu di dunia nyata</p>
