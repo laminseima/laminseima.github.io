@@ -4,7 +4,7 @@ title: Selayang Pandang
 subtitle: Pesan ketimbang Sosok
 ---
 
-Hallo Saudara, Saya adalah seseorang yang sedang dalam perjalanan.
+Hallo Saudara, Salam kenal. Saya adalah seseorang yang sedang dalam perjalanan.
 <b>Lamin Seima</b> adalah ruang dimana saya kembali pulang dan menuliskan jurnal perjalanan tersebut.
 Saya juga yang mengelola dan merawat ruang ini di setiap sepulang perjalanan.
 
