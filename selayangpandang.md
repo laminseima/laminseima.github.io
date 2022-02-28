@@ -26,10 +26,10 @@ Saya juga yang mengelola dan merawat ruang ini di setiap sepulang perjalanan.
 > terhadap dirinya sendiri juga merupakan suatu perjalanan.
 > Perjalanan yang menitikberatkan pada tujuan menemukan
 > dan menggali dirinya sendiri. Perjalanan yang membutuhkan bekal
-> hadir penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi,
-> keterbukaan untuk memikirkan hubung-kait yang ada, dan
-> kejernihan kalbu untuk menggali kedalaman makna dan mengungkapnya.
-> Inilah hal yang lebh esensial saudara.
+> hadir penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi.
+> Perjalanan yang membutuhkan keterbukaan untuk memikirkan hubung-kait yang ada
+> Perjalanan yang juga membutuhkan kejernihan kalbu untuk menggali kedalaman makna.
+> Menurut saya, inilah hal yang lebh esensial.
 
 <p style="text-align:center;">
   <a href="https://laminseima.github.io/beranda/">Kembali ke Beranda</a>
