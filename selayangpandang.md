@@ -22,7 +22,7 @@ Saya juga yang mengelola dan merawat ruang ini di setiap sepulang perjalanan.
 > merupakan suatu ukuran yang tidak cukup esensial
 > untuk ditegaskan dalam konteks apa yang tersaji di ruang ini.
 
-> Perlu diketahui dan diingat juga saudara, manusia yang melakukan pencarian
+> Saudara, manusia yang melakukan pencarian
 > terhadap dirinya sendiri juga merupakan suatu perjalanan.
 > Perjalanan yang menitikberatkan pada tujuan menemukan
 > dan menggali dirinya sendiri. Perjalanan yang membutuhkan bekal
