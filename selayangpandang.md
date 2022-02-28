@@ -12,8 +12,9 @@ seperti yang pernah dilakukan oleh Robert Pirsig.
 Suatu perjalanan yang ia lakukan dari Minnessota ke Montana melalui Dakota
 dengan mengendarai sepeda motor pada pertengahan paruh ke dua abad 20 masehi.
 
-Dengan menengok contoh cerita yang saya ambil tersebut, saya bukanlah seseorang yang sudah sangat tua
-yang sedang menikmati hari-hari senjanya, namun demikian saya bukan juga seseorang yang sangat belia
+Dengan menengok contoh cerita yang saya ambil tersebut, perlu ditegaskan bahwa 
+saya bukanlah seseorang yang sudah sangat tua yang sedang menikmati hari-hari senjanya,
+namun demikian saya bukan juga seseorang yang sangat belia
 yang masih samar-samar dalam melihat seluk-beluk kenyataan. Bagi saya, usia begitu juga nama,
 merupakan suatu ukuran yang tidak cukup esensial untuk diketahui dalam konteks apa yang tersaji di ruang ini.
 
