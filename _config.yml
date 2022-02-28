@@ -255,6 +255,9 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - aboutme.md
+  - tags.html
+  - _posts/
 
 plugins:
   - jekyll-paginate
