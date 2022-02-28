@@ -24,8 +24,8 @@ Ruang ini dikelola dan dirawat (masih) secara pribadi oleh saya sendiri di setia
 > merupakan suatu ukuran yang tidak cukup esensial
 > untuk ditegaskan dalam konteks apa yang tersaji di ruang ini.
 
-> Saudara, manusia yang melakukan pencarian
-> terhadap dirinya sendiri juga merupakan suatu perjalanan.
+> Saudara, disebut sebagai suatu perjalanan juga untuk manusia
+> yang melakukan pencarian terhadap dirinya sendiri.
 > Perjalanan yang menitikberatkan pada usaha untuk menemukan
 > dan menggali dirinya sendiri. Perjalanan yang membutuhkan bekal
 > berupa kehadiran penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi.
