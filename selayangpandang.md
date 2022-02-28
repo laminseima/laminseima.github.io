@@ -4,11 +4,6 @@ title: Selayang Pandang
 subtitle: Pesan ketimbang Sosok
 ---
 
-Suatu tindakan tak terelakkan yang pasti dilakukan oleh seorang manusia adalah perjalanan.
-Jejak adalah bukti historis seseorang melangkah sepanjang perjalanan yang ia ambil.
-Setiap kali pulang, saya menuliskan jurnal perjalanan di ruang ini, di <b>Lamin Seima</b>.
-Ruang ini dikelola dan dirawat (masih) secara pribadi oleh saya sendiri di setiap sepulang perjalanan.
-
 > Saudara, seperti yang kita tahu, setiap perjalanan dimulai dari titik awal,
 > lalu menuju ke suatu tujuan yang sudah ditentukan sebagai titik akhir.
 > Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lain, 
