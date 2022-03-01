@@ -4,7 +4,7 @@ title: Selayang Pandang
 subtitle: Pesan ketimbang Sosok
 ---
 
-Saudara, seperti yang kita ketahui bersama, setiap perjalanan berangkat dari suatu titik awal,
+Saudara, seperti yang kita ketahui, setiap perjalanan berangkat dari suatu titik awal,
 lalu bergerak diatas suatu jalan melalui berbagai medan untuk menuju suatu tujuan.
 
 Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lainnya, 
@@ -13,31 +13,42 @@ Seorang novelis yang melakukan perjalanan dari Minnessota ke Montana melalui Dak
 dengan mengendarai sepeda motor miliknya pada awal pertengahan paruh ke dua abad ke 20 masehi.
 Perjalanan tersebut ia publikasikan pada tahun 1974 dalam bentuk sebuah novel 
 berjudul <i>Zen and The Art of Motorcycle Maintenance</i>.
-Novel karyanya ini kemudian menjadi salah satu karya sastra yang secara pribadi saya sukai.
+Saya secara pribadi menaruh perhatian cukup besar terhadap karya sastra ini.
 
-Saudara, apa yang Robert Pirsig lakukan bukan saja perjalanan geografis belaka.
-Lebih dari itu, ia sesungguhnya melakukan perjalanan paradigmatis.
-Ia mengajak dan menyertai kita di dalam suatu tindakan
+Di dalam perjalanan geografis yang Pirsig lakukan,
+ia tidak menaruh intensi untuk berjalan dari satu tempat ke tempat lainnya.
+Melainkan ia menitikberatkan pada upaya untuk hadir dan sadar
+akan apa yang ia lihat, dengar, dan rasakan di sepanjang perjalanannya.
+
+Apa yang Pirsig lakukan sesungguhnya bukan saja perjalanan geografis belaka.
+Lebih dari itu, ia mengajak dan menyertai kita di dalam suatu tindakan
 menjelajahi dan menyelami kenyataan hidup yang ia jumpai   
 
-Menengok apa yang Robert Pirsig suguhkan, 
-
-Saudara, disebut sebagai suatu perjalanan juga untuk seorang manusia
-yang melakukan pencarian terhadap dirinya sendiri dalam suatu fase di dalam hidupnya.
-Perjalanan yang menitikberatkan pada usaha untuk menemukan
+Pirsig di dalam karya sastranya ingin mengatakan bahwa seorang manusia
+yang melakukan pencarian terhadap dirinya sendiri
+dalam suatu fase di dalam hidupnya adalah suatu perjalanan juga.
+Suatu bentuk perjalanan paradigmatis yang menitikberatkan pada usaha untuk menemukan
 dan menggali dirinya sendiri. Perjalanan yang membutuhkan bekal
 berupa kehadiran penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi.
 Perjalanan yang membutuhkan keterbukaan untuk memikirkan hubung-kait yang ada.
 Perjalanan yang juga membutuhkan kejernihan kalbu dalam memilah dan menggali kedalaman makna.
 Menurut saya, ini hal yang lebih esensial.
 
-Menengok referensi karya sastra yang saya ambil, mungkin perlu diketahui bahwa 
-saya bukanlah seseorang lanjut usia yang sedang menikmati hari-hari senjanya,
-namun demikian saya bukan juga seseorang yang sangat belia
-yang masih samar dalam memandang seluk-beluk kenyataan yang ada. 
-Bagi saya, usia merupakan suatu ukuran yang tidak cukup esensial
-untuk diketahui dalam konteks apa yang tersaji di ruang ini.
+Berkaca dari itu semua, sesungguhnya saya juga adalah seseorang yang sedang dalam perjalanan. 
 
+Perjalanan ini saya lakukan sebagai bentuk terimakasih sudah dilahirkan ke dunia.
+Saya bukanlah seseorang lanjut usia yang sedang menikmati hari-hari senjanya, 
+saya bukan juga seseorang yang sangat belia
+yang masih samar dalam memandang seluk-beluk kenyataan yang ada.
+Bagi saya, perjalanan ini bukan soal usia, tetapi soal makna 
+
+Saya juga bukan seseorang yang mencari sanjungan ataupun ketenaran.
+Dua hal tersebut hanyalah barang trivial. 
+Persahabatan yang selalu mengedepankan percakapan dialogis lebih substansial
+
+Akhir kata, ketimbang sibuk mencari tahu siapa.
+Lebih baik kita menggali darimana dan menuju kemana.
+Selebihkan akan menjadi penguat dari perjalanan itu.
 
 <p style="text-align:center;">Salam kenal saudara, semoga kita bisa bertemu di dunia nyata</p>
 
