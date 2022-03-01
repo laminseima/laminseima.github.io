@@ -34,7 +34,6 @@ dan menggali dirinya sendiri. Perjalanan yang membutuhkan bekal
 berupa kehadiran penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi.
 Perjalanan yang membutuhkan keterbukaan untuk memikirkan hubung-kait yang ada.
 Perjalanan yang juga membutuhkan kejernihan kalbu dalam memilah dan menggali kedalaman makna.
-Menurut saya, ini hal yang lebih esensial.
 
 Berkaca dari itu semua, sesungguhnya saya juga adalah seseorang yang sedang dalam perjalanan. 
 
