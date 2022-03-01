@@ -13,7 +13,7 @@ Seorang novelis yang melakukan perjalanan dari Minnessota ke Montana melalui Dak
 dengan mengendarai sepeda motor miliknya pada awal pertengahan paruh ke dua abad ke 20 masehi.
 Perjalanan tersebut ia publikasikan dalam bentuk sebuah novel 
 berjudul <i>Zen and The Art of Motorcycle Maintenance</i> pada tahun 1974.
-Novel karyanya ini kemudian menjadi salah satu karya sastra yang saya sukai.
+Novel karyanya ini kemudian menjadi salah satu karya sastra yang secara pribadi saya sukai.
 
 Menengok referensi karya sastra yang saya ambil, mungkin perlu diketahui bahwa 
 saya bukanlah seseorang lanjut usia yang sedang menikmati hari-hari senjanya,
