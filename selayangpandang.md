@@ -7,7 +7,7 @@ subtitle: Pesan ketimbang Sosok
 Saudara, seperti yang kita ketahui bersama, setiap perjalanan berangkat dari suatu titik awal,
 lalu bergerak diatas suatu jalan melalui berbagai medan untuk menuju suatu tujuan.
 
-Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lain, 
+Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lainnya, 
 seperti halnya yang pernah dilakukan oleh Robert Pirsig.
 Seorang novelis yang melakukan perjalanan dari Minnessota ke Montana melalui Dakota
 dengan mengendarai sepeda motor miliknya pada awal pertengahan paruh ke dua abad ke 20 masehi.
