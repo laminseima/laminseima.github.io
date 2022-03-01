@@ -48,7 +48,8 @@ Suatu perjalanan yang tidak terbatas oleh ruang dan usia.
 Saya bukanlah seseorang lanjut usia yang sedang berada di masa senjanya, 
 saya bukan juga seseorang yang sangat belia
 yang masih samar dalam memandang seluk-beluk kenyataan yang ada.
-Bagi saya, perjalanan ini bukan soal usia, dan lebih dari sekedar hitungan angka. 
+Bagi saya, perjalanan ini bukan soal usia.
+Perjalanan ini juga lebih dari sekedar hitungan angka. 
 
 Saya juga bukan seseorang yang mencari pengakuan, atau sanjungan, ataupun ketenaran.
 Menurut saya semua hal itu hanyalah barang trivial. 
