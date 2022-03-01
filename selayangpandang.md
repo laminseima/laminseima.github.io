@@ -25,7 +25,7 @@ akan apa yang ia lihat, dengar, dan rasakan di sepanjang perjalanannya.
 
 Apa yang Pirsig lakukan sesungguhnya bukan saja perjalanan geografis belaka.
 Lebih dari itu, ia mengajak dan menyertai kita di dalam suatu tindakan
-menjelajahi dan menyelami kenyataan hidup yang ia jumpai   
+menjelajahi dan menyelami kenyataan hidup yang ia jumpai.  
 
 Pirsig di dalam karya sastranya ingin mengatakan bahwa seorang manusia
 yang melakukan pencarian terhadap dirinya sendiri
