@@ -9,7 +9,7 @@ lalu bergerak diatas suatu jalan melalui berbagai medan untuk menuju suatu tujua
 
 Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lain, 
 seperti halnya yang pernah dilakukan oleh Robert Pirsig.
-Seorang novelis filosofis yang melakukan perjlanan dari Minnessota ke Montana melalui Dakota
+Seorang novelis filosofis yang melakukan perjalanan dari Minnessota ke Montana melalui Dakota
 dengan mengendarai sepeda motor miliknya pada awal pertengahan paruh ke dua abad ke 20 masehi.
 Kemudian ia publikasikan perjalanan tersebut ke dalam sebuah novel 
 berjudul <i>Zen and The Art of Motorcycle Maintenance</i> pada tahun 1974.
