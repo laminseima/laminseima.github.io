@@ -15,15 +15,8 @@ Perjalanan tersebut ia publikasikan pada tahun 1974 dalam bentuk sebuah novel
 berjudul <i>Zen and The Art of Motorcycle Maintenance</i>.
 Novel karyanya ini kemudian menjadi salah satu karya sastra yang secara pribadi saya sukai.
 
-Menengok referensi karya sastra yang saya ambil, mungkin perlu diketahui bahwa 
-saya bukanlah seseorang lanjut usia yang sedang menikmati hari-hari senjanya,
-namun demikian saya bukan juga seseorang yang sangat belia
-yang masih samar dalam memandang seluk-beluk kenyataan yang ada. 
-Bagi saya, usia merupakan suatu ukuran yang tidak cukup esensial
-untuk diketahui dalam konteks apa yang tersaji di ruang ini.
-
 Saudara, apa yang Robert Pirsig lakukan bukan saja perjalanan geografis belaka.
-Lebih dari itu, ia sesungguhnya melakukan perjalanan paradigmatik.
+Lebih dari itu, ia sesungguhnya melakukan perjalanan paradigmatis.
 Ia mengajak dan menyertai kita di dalam suatu tindakan
 menjelajahi dan menyelami kenyataan hidup yang ia jumpai   
 
@@ -37,6 +30,14 @@ berupa kehadiran penuh untuk memperhatikan seluk-beluk kenyataan yang terjadi.
 Perjalanan yang membutuhkan keterbukaan untuk memikirkan hubung-kait yang ada.
 Perjalanan yang juga membutuhkan kejernihan kalbu dalam memilah dan menggali kedalaman makna.
 Menurut saya, ini hal yang lebih esensial.
+
+Menengok referensi karya sastra yang saya ambil, mungkin perlu diketahui bahwa 
+saya bukanlah seseorang lanjut usia yang sedang menikmati hari-hari senjanya,
+namun demikian saya bukan juga seseorang yang sangat belia
+yang masih samar dalam memandang seluk-beluk kenyataan yang ada. 
+Bagi saya, usia merupakan suatu ukuran yang tidak cukup esensial
+untuk diketahui dalam konteks apa yang tersaji di ruang ini.
+
 
 <p style="text-align:center;">Salam kenal saudara, semoga kita bisa bertemu di dunia nyata</p>
 
