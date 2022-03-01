@@ -5,7 +5,7 @@ subtitle: Pesan ketimbang Sosok
 ---
 
 Saudara, seperti yang kita ketahui, setiap perjalanan berangkat dari suatu titik awal,
-lalu bergerak di atas suatu jalan melalui berbagai medan untuk menuju suatu tujuan.
+lalu bergerak di atas suatu jalan, melalui berbagai medan, untuk menuju suatu tujuan.
 
 Robert Pirsig, seorang novelis pernah melakukan perjalanan
 pada awal pertengahan paruh ke dua abad ke 20 masehi.
