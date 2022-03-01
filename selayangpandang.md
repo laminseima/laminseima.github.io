@@ -13,7 +13,6 @@ Seorang novelis yang melakukan perjalanan dari Minnessota ke Montana melalui Dak
 dengan mengendarai sepeda motor miliknya pada awal pertengahan paruh ke dua abad ke 20 masehi.
 Perjalanan tersebut ia publikasikan pada tahun 1974 dalam bentuk sebuah novel 
 berjudul <i>Zen and The Art of Motorcycle Maintenance</i>.
-Saya secara pribadi menaruh perhatian cukup besar terhadap karya sastra ini.
 
 Di dalam perjalanan geografis yang Pirsig lakukan,
 ia tidak menaruh intensi capaian untuk segera sampai di satu tempat 
