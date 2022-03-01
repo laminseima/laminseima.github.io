@@ -16,7 +16,10 @@ berjudul <i>Zen and The Art of Motorcycle Maintenance</i>.
 Saya secara pribadi menaruh perhatian cukup besar terhadap karya sastra ini.
 
 Di dalam perjalanan geografis yang Pirsig lakukan,
-ia tidak menaruh intensi untuk berjalan dari satu tempat ke tempat lainnya.
+ia tidak menaruh intensi capaian untuk segera sampai di satu tempat 
+lalu segera melanjutkan perjalanan ke tempat lainnya.
+Perjalanan yang ia lakukan bukan dari target ke target.
+Tidak juga berjalan sambil menghitung waktu tempuh dan mengira-ngira kapan sampai.
 Melainkan ia menitikberatkan pada upaya untuk hadir dan sadar
 akan apa yang ia lihat, dengar, dan rasakan di sepanjang perjalanannya.
 
@@ -48,7 +51,7 @@ Persahabatan yang selalu mengedepankan percakapan dialogis lebih substansial
 
 Akhir kata, ketimbang sibuk mencari tahu siapa.
 Lebih baik kita menggali darimana dan menuju kemana.
-Selebihkan akan menjadi penguat dari perjalanan itu.
+Selebihnya akan menjadi penguat dari perjalanan itu.
 
 <p style="text-align:center;">Salam kenal saudara, semoga kita bisa bertemu di dunia nyata</p>
 
