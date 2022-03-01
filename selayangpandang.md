@@ -11,8 +11,8 @@ Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lainnya,
 seperti halnya yang pernah dilakukan oleh Robert Pirsig.
 Seorang novelis yang melakukan perjalanan dari Minnessota ke Montana melalui Dakota
 dengan mengendarai sepeda motor miliknya pada awal pertengahan paruh ke dua abad ke 20 masehi.
-Perjalanan tersebut ia publikasikan dalam bentuk sebuah novel 
-berjudul <i>Zen and The Art of Motorcycle Maintenance</i> pada tahun 1974.
+Perjalanan tersebut ia publikasikan pada tahun 1974 dalam bentuk sebuah novel 
+berjudul <i>Zen and The Art of Motorcycle Maintenance</i>.
 Novel karyanya ini kemudian menjadi salah satu karya sastra yang secara pribadi saya sukai.
 
 Menengok referensi karya sastra yang saya ambil, mungkin perlu diketahui bahwa 
