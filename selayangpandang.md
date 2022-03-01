@@ -4,7 +4,7 @@ title: Selayang Pandang
 subtitle: Pesan ketimbang Sosok
 ---
 
-Saudara, seperti yang kita tahu bersama, setiap perjalanan berangkat dari suatu titik awal,
+Saudara, seperti yang kita ketahui bersama, setiap perjalanan berangkat dari suatu titik awal,
 lalu bergerak diatas suatu jalan melalui berbagai medan untuk menuju suatu tujuan.
 
 Tentu perjalanan ada yang dilakukan dari satu tempat ke tempat lain, 
