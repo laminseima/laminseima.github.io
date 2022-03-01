@@ -55,8 +55,8 @@ Saya juga bukan seseorang yang mencari pengakuan, atau sanjungan, ataupun ketena
 Menurut saya semua hal itu hanyalah barang trivial. 
 Persahabatan yang selalu dihidupkan dengan percakapan dialogis itu lebih substansial.
 
-Akhir kata, ketimbang mencari tahu hal-hal yang mengapung dan tampak di permukaan.
-Lebih baik menyelam dan menjelajah untuk menemukan maksud sesungguhnya.
+Akhir kata, ketimbang mencari tahu hal-hal yang mengapung dan tampak di permukaan,
+lebih baik menyelam dan menjelajah untuk menemukan maksud sesungguhnya.
 Mencari tahu darimana dan harus menuju kemana.
 Apa yang selebihnya ditemukan akan menjadi penguat dari perjalanan itu.
 
