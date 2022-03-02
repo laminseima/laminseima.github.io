@@ -6,11 +6,10 @@ subtitle: Menjejak Langkah
 <p style="text-align:center;">Hallo! mari masuk!</p>
 
 Selamat datang!. Ini adalah <b>Lamin Seima</b>.
-Ini adalah <i>journal of journey</i> (jurnal perjalanan).
-Tetapi bukan <i>itinerary</i> (buku pedoman rencana perjalanan),
-bukan juga <i>diary</i> (catatan harian).
-Ini cenderung bersifat <i>inquiry</i>
-(penyelidikan tentang apa yang dipertanyakan).
+Ini adalah jurnal perjalanan (<i>journal of journey</i>).
+Tetapi bukan buku pedoman rencana perjalanan (<i>itinerary</i>),
+bukan juga catatan harian (<i>diary</i>). Ini cenderung bersifat
+penyelidikan tentang apa yang dinyatakan dan dipertanyakan (<i>inquiry</i>).
 
 Disini tersaji ruang-ruang berisikan pandangan.
 Siapapun yang berkunjung boleh menikatinya.
