@@ -26,7 +26,7 @@ akan apa yang ia lihat, dengar, dan rasakan di sepanjang perjalanannya.
 
 Apa yang Pirsig lakukan sesungguhnya bukan saja perjalanan geografis belaka.
 Lebih dari itu, ia mengajak dan menyertai kita di dalam suatu tindakan
-menjelajahi dan menyelami kenyataan hidup yang ia jumpai.  
+menjelajahi dan menyelami kenyataan hidup yang ia jumpai.
 
 Pirsig di dalam karya sastranya ingin mengatakan bahwa seorang manusia
 yang melakukan pencarian terhadap dirinya sendiri
@@ -39,7 +39,8 @@ Perjalanan yang juga membutuhkan kejernihan kalbu dalam memilah dan menggali ked
 
 Berkaca dari itu semua, sesungguhnya saya juga adalah
 seseorang yang sedang berada dalam perjalanan paradigmatis.
-Perjalanan yang dapat dilakukan kapanpun dan dimanapun seseorang berada
+Perjalanan yang dapat dilakukan kapanpun dan dimanapun seseorang berada.
+Perjalanan yang melakukan perpindahan keadaan (<i>circumstance</i>)
 selama masih berkesempatan untuk hidup.
 
 Suatu perjalanan paradigmatis tidak terbatas oleh ruang dan usia.
@@ -57,8 +58,7 @@ Bagi saya, persahabatan yang dihidupkan dengan percakapan dialogis itu lebih sub
 
 Akhir kata, ketimbang mencari tahu dan mengejar hal-hal yang mengapung dan tampak di permukaan,
 lebih baik menyelam dan menjelajah untuk menemukan makna dan pola acuan.
-Mencari tahu darimana dan harus menuju kemana.
-Apa yang selebihnya ditemukan akan menjadi penguat dari perjalanan itu.
+Guna mendapatkan jawaban darimana dan harus menuju kemana.
 
 <p style="text-align:center;">Salam kenal saudara, semoga kita bisa bertemu di dunia nyata</p>
 
