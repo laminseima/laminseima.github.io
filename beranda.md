@@ -28,4 +28,4 @@ subtitle: Menjejak Langkah
 Kalau saudara ada sedikit keingintahuan tentang penulis, saudara bisa membacanya
 <a href="https://laminseima.github.io/selayangpandang/">disini</a>.
 
-<p style="text-align: center;">Itu saja kawan, selamat menikmati</p>
+<p style="text-align:center;">Itu saja kawan, selamat datang dan silakan menikmati</p>
