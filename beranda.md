@@ -25,9 +25,7 @@ subtitle: Menjejak Langkah
 > dalam bentuk ringkas-padat dapat dinikmati di [Medium](https://medium.com/@laminseima),
 > atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
-<p style="text-align:center;">
 Kalau saudara ada sedikit keingintahuan tentang penulis, saudara bisa membacanya
-  <a href="https://laminseima.github.io/selayangpandang/">disini</a>.
-</p>
+<a href="https://laminseima.github.io/selayangpandang/">disini</a>.
 
 <p style="text-align: center;">Itu saja kawan, selamat menikmati</p>
