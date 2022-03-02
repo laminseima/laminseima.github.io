@@ -5,7 +5,7 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!</p>
 
-Ini adalah <b>Lamin Seima</b>. Ini tentang <i>journey journal</i> (jurnal perjalanan).
+Ruang ini adalah <b>Lamin Seima</b>. Ini tentang <i>journey journal</i> (jurnal perjalanan).
 Tentu bukan <i>itinerary</i> (buku pedoman rencana perjalanan), bukan juga <i>diary</i> (catatan harian).
 Tetapi cenderung bersifat tulisan tentang <i>inquiry</i> (penyelidikan tentang apa yang dipertanyakan)
 
