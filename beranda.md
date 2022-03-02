@@ -14,7 +14,7 @@ Tetapi lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 Penelusuran dan penjelajahan terhadap nilai-nilai
 yang diekstraksi sehingga membentuk sebuah pandangan.
 <i>Lamin Seima</i> berusaha menyuguhkan pandangan tersebut.
-Siapapun yang berkunjung tentu saja boleh menikmatinya.
+Siapapun yang berkunjung kesini tentu saja boleh menikmatinya.
 
 Semoga pandangan yang tersuguhkan dapat menjadi bahan perenungan
 dan ikut memperkaya perspektif saudara dalam melanjutkan upaya untuk terus
