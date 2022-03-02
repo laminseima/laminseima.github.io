@@ -27,8 +27,8 @@ atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substac
 Kalau saudara ada sedikit keingintahuan tentang penulis, saudara bisa membacanya
 <a href="https://laminseima.github.io/selayangpandang/">disini</a>.
 
-Saya ingin sekali menjalin hubungan pertemanan yang dialogis dengan saudara.
+Saya ingin sekali menjalin hubungan pertemanan dengan saudara.
 Maka itu kalau ada yg ingin saudara sampaikan atau ceritakan,
-Jangan ragu mengirimkan email [kesini](mailto:ryo.firmananda@yahoo.com)
+Jangan ragu dan jangan sungkan mengirimkan email [kesini](mailto:ryo.firmananda@yahoo.com)
   
 <p style="text-align:center;">Itu saja kawan, selamat datang dan silakan menikmati</p>
