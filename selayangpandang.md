@@ -56,7 +56,7 @@ Menurut saya semua hal itu hanyalah barang trivial.
 Bagi saya, persahabatan yang dihidupkan dengan percakapan dialogis itu lebih substansial.
 
 Akhir kata, ketimbang mencari tahu dan mengejar hal-hal yang mengapung dan tampak di permukaan,
-lebih baik menyelam dan menjelajah untuk menemukan pola acuan dan makna.
+lebih baik menyelam dan menjelajah untuk menemukan makna dan pola acuan.
 Mencari tahu darimana dan harus menuju kemana.
 Apa yang selebihnya ditemukan akan menjadi penguat dari perjalanan itu.
 
