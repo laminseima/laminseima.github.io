@@ -25,10 +25,8 @@ dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
 Kalau saudara ada sedikit keingintahuan tentang penulis, saudara bisa membacanya
-<a href="https://laminseima.github.io/selayangpandang/">disini</a>.
-
-Saya ingin sekali menjalin hubungan pertemanan dengan saudara.
-Maka itu kalau ada yg ingin saudara sampaikan atau ceritakan,
+<a href="https://laminseima.github.io/selayangpandang/">disini</a>. 
+Barangkali ada yg ingin saudara sampaikan atau ceritakan,
 Jangan ragu dan jangan sungkan mengirimkan email [kesini](mailto:ryo.firmananda@yahoo.com)
   
 <p style="text-align:center;">Itu saja kawan, selamat datang dan silakan menikmati</p>
