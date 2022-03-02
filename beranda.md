@@ -5,19 +5,20 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!</p>
 
-Selamat datang!. Ini adalah <b>Lamin Seima</b>.
-Ini adalah jurnal perjalanan (<i>journal of journey</i>).
-Tetapi bukan buku pedoman rencana perjalanan (<i>itinerary</i>),
-bukan juga catatan harian (<i>diary</i>). Ini cenderung bersifat
-penyelidikan tentang apa yang dinyatakan dan dipertanyakan (<i>inquiry</i>).
+Selamat datang!. Ini adalah <b>Lamin Seima</b>. 
+Berisi jurnal perjalanan (<i>journal of journey</i>).
+Bukan buku pedoman rencana perjalanan (<i>itinerary</i>),
+bukan juga catatan harian (<i>diary</i>). 
+Tetapi lebih bersifat penyelidikan terhadap paradigma (<i>inquiry</i>).
 
 Disini tersaji ruang-ruang berisikan pandangan.
-Siapapun yang berkunjung boleh menikatinya.
-Sehingga saudara dapat melanjutkan upaya untuk
-terus membangun hari-hari saudara yang belum terjadi di depan.
+Siapapun yang berkunjung boleh menikmatinya.
+Mudah-mudahan dapat ikut memperkaya perspektif dan
+menemani saudara dalam melanjutkan upaya untuk terus
+membangun hari-hari saudara yang belum terjadi di depan.
 
-Silakan nikmati cangkir-cangkir berisikan pandangan tersebut 
-dalam bentuk ringkas-padat dapat dinikmati di [Medium](https://medium.com/@laminseima),
+Silakan nikmati tulisan-tulisan yang berisikan pandangan tersebut 
+dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
 Kalau saudara ada sedikit keingintahuan tentang penulis, saudara bisa membacanya
