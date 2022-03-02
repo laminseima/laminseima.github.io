@@ -24,7 +24,7 @@ Tulisan-tulisan yang berisikan pandangan tersebut dapat dinikmati
 dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
-Kalau-kalau saudara ada sedikit keingintahuan tentang penulis, saudara bisa membacanya
+Kalau saudara ada sedikit keingintahuan tentang penulis, saudara bisa membacanya
 <a href="https://laminseima.github.io/selayangpandang/">disini</a>.
 
 <p style="text-align:center;">Itu saja kawan, selamat datang dan silakan menikmati</p>
