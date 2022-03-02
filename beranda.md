@@ -5,16 +5,16 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo! mari masuk!</p>
 
-Selamat datang!. Ini adalah <b>Lamin Seima</b>. 
+Selamat datang! ini adalah <b>Lamin Seima</b>. 
 Berisikan jurnal perjalanan (<i>journal of journey</i>).
 Bukan buku pedoman rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
-Tetapi lebih bersifat penelusuran dan penjelajahan(<i>inquiry</i>).
+Tetapi lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
 Penelusuran dan penjelajahan terhadap nilai-nilai
 yang diekstraksi sehingga membentuk sebuah pandangan.
-Lamin Seima berusaha menyuguhkan pandangan tersebut.
-Siapapun yang berkunjung boleh menikmatinya.
+<b>Lamin Seima</b> berusaha menyuguhkan pandangan tersebut.
+Siapapun yang berkunjung tentu saja boleh menikmatinya.
 
 Semoga pandangan yang tersuguhkan dapat menjadi bahan perenungan
 dan ikut memperkaya perspektif saudara dalam melanjutkan upaya untuk terus
