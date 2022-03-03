@@ -11,12 +11,12 @@ Namun bukan pedoman rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
 Melainkan tulisan yang lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
-Penelusuran dan penjelajahan yang berusaha hadir dan sadar akan kenyataan yang ada.
-Sebuah tindakan untuk menjejaki koridor perjalanan.
-Melihat segala sesuatunya dengan bingkai pandangan.
-Dalam intensi untuk menemukan pola acuan. 
+Suatu tindakan yang berusaha hadir dan sadar akan kenyataan yang ada.
+Menjejaki koridor perjalanan.
+Melihat segala sesuatunya melalui sebuah bingkai pandangan.
+Dalam intensi untuk menemukan pola acuan dalam berpikir. 
 
-Sajian tersebut dapat dinikmati 
+Sajian yang ada dapat dinikmati 
 dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
@@ -25,7 +25,7 @@ dan ikut memperkaya perspektif saudara dalam melanjutkan upaya untuk terus
 membangun hari-hari saudara yang belum terjadi di depan.
 
 Kalau saudara ada sedikit keingintahuan tentang penulis jurnal perjalanan ini,
-saudara bisa membacanya <a href="https://laminseima.github.io/selayangpandang/">disini</a>. 
+saudara bisa membacanya [disini](https://laminseima.github.io/selayangpandang/)<a href="https://laminseima.github.io/selayangpandang/">disini</a>. 
 Kemudian kalau ada yg ingin saudara sampaikan atau ceritakan,
 jangan ragu dan jangan sungkan mengirimkan email [kesini](mailto:ryo.firmananda@yahoo.com).
   
