@@ -57,7 +57,8 @@ Bagi saya, persahabatan yang dihidupkan dengan percakapan dialogis itu lebih sub
 Ketimbang terlalu menyibukkan diri dengan hal-hal yang mengapung dan tampak di permukaan. 
 Lebih baik menyelam dan berjelajah untuk menemukan makna dan pola acuan. 
 Dengan intensi untuk mendapatkan jawaban darimana dan harus menuju kemana.
-Saya Ryo, salam kenal saudara, semoga kita bisa bertemu di dunia nyata.
+
+Salam kenal saudara, saya Ryo, semoga kita bisa bertemu di dunia nyata.
 
 <p style="text-align:center;">{^_^}</p>
 
