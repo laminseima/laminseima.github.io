@@ -58,9 +58,7 @@ Ketimbang terlalu menyibukkan diri dengan hal-hal yang mengapung dan tampak di p
 Lebih baik menyelam dan berjelajah untuk menemukan makna dan pola acuan. 
 Dengan intensi untuk mendapatkan jawaban darimana dan harus menuju kemana.
 
-Salam kenal saudara, saya Ryo, semoga kita bisa bertemu di dunia nyata.
-
-<p style="text-align:center;">{^_^}</p>
+Salam kenal saudara, saya Ryo, semoga kita bisa bertemu di dunia nyata. <a>{^_^}</a>
 
 <p style="text-align:center;">
   <a href="https://laminseima.github.io/beranda/">Kembali ke Beranda</a>
