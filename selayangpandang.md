@@ -12,7 +12,7 @@ seperti halnya yang pernah dilakukan oleh Robert Pirsig.
 Novelis filosofis ini melakukan perjalanan
 pada awal pertengahan paruh ke dua abad ke 20 masehi.
 Dengan mengendarai sepeda motor miliknya, ia menempuh perjalanan
-sejauh lebih dari 1200 km dari Minnesota menuju Montana melalui Dakota.
+lebih dari 1200 km dari Minnesota menuju Montana melalui Dakota.
 Perjalanan tersebut di kemudian hari Pirsig publikasikan dalam
 sebuah karya sastra berbentuk novel dengan judul
 <i>Zen and The Art of Motorcycle Maintenance</i> pada tahun 1974.
