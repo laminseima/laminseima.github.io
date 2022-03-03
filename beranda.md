@@ -5,26 +5,22 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo, mari masuk</p>
 
-Selamat datang, ini adalah sebuah jurnal perjalanan (<i>journal of journey</i>).
-Bukan pedoman rencana perjalanan (<i>itinerary</i>),
+Selamat datang, ini adalah sebuah ruang yang berisikan
+jurnal perjalanan (<i>journal of journey</i>) di dalamnya.
+Namun bukan pedoman rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
-Tetapi lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
+Melainkan tulisan yang lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
 Penelusuran dan penjelajahan dengan berusaha hadir dan sadar akan kenyataan yang ada.
 Sebuah tindakan untuk menjejaki koridor perjalanan.
 Melihat segala sesuatunya dengan bingkai pandangan.
 Dalam intensi untuk menemukan pola acuan. 
 
-Apa yang diperoleh di dalam perjalanan ini,
-berusaha dikemas sebaik mungkin yang saya bisa.
-Kemudian saya taruh di ruang ini
-agar siapapun yang berkunjung dapat menikmatinya.
-
-Semoga apa yang diperoleh menjadi bahan perenungan
+Semoga apa yang tersaji di ruang ini bisa menjadi bahan perenungan
 dan ikut memperkaya perspektif saudara dalam melanjutkan upaya untuk terus
 membangun hari-hari saudara yang belum terjadi di depan.
 
-Tulisan-tulisan yang berisikan pandangan tersebut dapat dinikmati 
+Sajian-sajian tersebut dapat dinikmati 
 dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
