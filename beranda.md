@@ -17,7 +17,8 @@ Dalam intensi untuk menemukan pola acuan.
 
 Apa yang diperoleh di dalam perjalanan ini,
 berusaha dikemas sebaik mungkin yang saya bisa.
-Kemudian saya taruh di ruang ini, agar siapapun yang berkunjung dapat menikmatinya
+Kemudian saya taruh di ruang ini
+agar siapapun yang berkunjung dapat menikmatinya.
 
 Semoga apa yang diperoleh menjadi bahan perenungan
 dan ikut memperkaya perspektif saudara dalam melanjutkan upaya untuk terus
@@ -33,3 +34,4 @@ Kemudian kalau ada yg ingin saudara sampaikan atau ceritakan,
 jangan ragu dan jangan sungkan mengirimkan email [kesini](mailto:ryo.firmananda@yahoo.com).
   
 <p style="text-align:center;">Itu saja kawan, selamat datang dan silakan menikmati</p>
+<p style="text-align:center;">{^_^}</p>
