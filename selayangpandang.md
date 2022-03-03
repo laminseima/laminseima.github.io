@@ -47,7 +47,7 @@ Suatu perjalanan paradigmatis tidak terbatas oleh usia.
 Maka itu tidak cukup kontekstual untuk menitikberatkan pada ukuran itu.
 Bukan berarti tidak memperdulikan usia yang terus berjalan.
 Bagi saya, perjalanan ini lebih dari itu, lebih dari sekedar hitungan angka.
-karena setiap manusia tumbuh dengan cara dan kecepatannya masing-masing. 
+Karena setiap manusia tumbuh dengan cara dan kecepatannya masing-masing. 
 
 Saya juga sudah bukan lagi seorang yang mencari kepuasan pribadi
 yang menginginkan pengakuan, atau sanjungan, ataupun ketenaran.
