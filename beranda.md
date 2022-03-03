@@ -3,7 +3,7 @@ layout: page
 title: Lamin Seima
 subtitle: Menjejak Langkah
 ---
-<p style="text-align:center;">Hallo, mari masuk...</p>
+<p style="text-align:center;">Hallo, mari masuk..</p>
 
 Selamat datang, ini adalah sebuah ruang yang berisikan
 jurnal perjalanan (<i>journal of journey</i>) di dalamnya.
