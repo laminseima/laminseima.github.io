@@ -54,11 +54,12 @@ yang menginginkan pengakuan, atau sanjungan, ataupun ketenaran.
 Menurut saya semua hal itu hanyalah barang trivial. 
 Bagi saya, persahabatan yang dihidupkan dengan percakapan dialogis itu lebih substansial.
 
-Akhir kata, ketimbang mencari tahu dan mengejar hal-hal yang mengapung dan tampak di permukaan,
-lebih baik menyelam dan menjelajah untuk menemukan makna dan pola acuan.
-Guna mendapatkan jawaban darimana dan harus menuju kemana.
+Ketimbang terlalu menyibukkan diri dengan hal-hal yang mengapung dan tampak di permukaan. 
+Lebih baik menyelam dan berjelajah untuk menemukan makna dan pola acuan. 
+Dengan intensi untuk mendapatkan jawaban darimana dan harus menuju kemana.
+Saya Ryo, salam kenal saudara, semoga kita bisa bertemu di dunia nyata.
 
-<p style="text-align:center;">Salam kenal saudara, semoga kita bisa bertemu di dunia nyata</p>
+<p style="text-align:center;">{^_^}</p>
 
 <p style="text-align:center;">
   <a href="https://laminseima.github.io/beranda/">Kembali ke Beranda</a>
