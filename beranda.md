@@ -11,7 +11,7 @@ Namun bukan pedoman rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
 Melainkan tulisan yang lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
-Penelusuran dan penjelajahan dengan berusaha hadir dan sadar akan kenyataan yang ada.
+Penelusuran dan penjelajahan yang berusaha hadir dan sadar akan kenyataan yang ada.
 Sebuah tindakan untuk menjejaki koridor perjalanan.
 Melihat segala sesuatunya dengan bingkai pandangan.
 Dalam intensi untuk menemukan pola acuan. 
