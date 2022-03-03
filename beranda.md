@@ -11,8 +11,8 @@ Bukan buku pedoman rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
 Tetapi lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
-Penelusuran dan penjelajahan terhadap nilai-nilai
-yang diekstraksi sehingga membentuk sebuah pandangan.
+Penelusuran dan penjelajahan terhadap nilai-nilai di dalam kenyataan hidup.
+... sehingga membentuk sebuah pandangan.
 <i>Lamin Seima</i> berusaha menyuguhkan pandangan tersebut.
 Siapapun yang berkunjung kesini tentu saja boleh menikmatinya.
 
