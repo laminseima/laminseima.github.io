@@ -25,7 +25,7 @@ dan ikut memperkaya perspektif saudara dalam melanjutkan upaya untuk terus
 membangun hari-hari saudara yang belum terjadi di depan.
 
 Kalau saudara ada sedikit keingintahuan tentang penulis jurnal perjalanan ini,
-saudara bisa membacanya [disini](https://laminseima.github.io/selayangpandang/)<a href="https://laminseima.github.io/selayangpandang/">disini</a>. 
+saudara bisa membacanya [disini](https://laminseima.github.io/selayangpandang/). 
 Kemudian kalau ada yg ingin saudara sampaikan atau ceritakan,
 jangan ragu dan jangan sungkan mengirimkan email [kesini](mailto:ryo.firmananda@yahoo.com).
   
