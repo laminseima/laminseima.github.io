@@ -20,7 +20,7 @@ sebuah karya sastra berbentuk novel dengan judul
 Perjalanan geografis yang Pirsig lakukan bukanlah suatu perjalanan yang
 menghiraukan waktu tempuh. Pirsig tidak menaruh intensi untuk segera sampai di suatu tempat, 
 lalu bergegas untuk melanjutkan perjalanan menuju ke tempat lainnya.
-Melainkan ia menitikberatkan pada upaya untuk hadir, sadar, dan memahami
+Melainkan ia menitikberatkan pada upaya untuk hadir dan sadar akan
 apa yang ia lihat, dengar, dan rasakan di sepanjang perjalanannya.
 
 Apa yang Pirsig lakukan sesungguhnya bukan perjalanan geografis belaka.
