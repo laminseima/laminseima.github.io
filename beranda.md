@@ -26,8 +26,5 @@ atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substac
 
 Kalau saudara ada sedikit keingintahuan tentang penulis,
 saudara bisa membacanya [disini](https://laminseima.github.io/selayangpandang/). 
-Kemudian kalau ada yg ingin saudara sampaikan atau ceritakan,
-jangan ragu dan jangan sungkan, langsung saja mengirimkan
-pesan melalui media sosial [berikut](https://www.instagram.com/laminseima/).
-  
+
 <p style="text-align:center;">Itu saja kawan, selamat menikmati</p>
