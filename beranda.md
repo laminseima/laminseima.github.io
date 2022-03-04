@@ -32,4 +32,4 @@ Kemudian kalau ada yg ingin saudara sampaikan atau ceritakan,
 jangan ragu dan jangan sungkan mengirimkan email [kesini](mailto:ryo.firmananda@yahoo.com)
 atau mengirimkan pesan langsung ke media sosial [berikut](https://www.instagram.com/laminseima/).
   
-<p style="text-align:center;">Itu saja kawan, selamat menikmati &#128513</p>
+<p style="text-align:center;">Itu saja kawan, selamat menikmati (^_^)</p>
