@@ -11,18 +11,18 @@ Bukan lembar rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
 Melainkan tulisan yang cenderung bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
-Suatu tindakan yang berusaha hadir di dalam kenyataan yang ada
+Tulisan tentang suatu upaya untuk hadir di dalam kenyataan yang ada
 dan sadar akan hal-hal yang terjadi di dalamnya.
-Suatu tindakan yang berusaha berjalan menjejaki koridor perjalanan
+Suatu upaya untuk berjalan menjejaki koridor perjalanan
 dan melihat segala sesuatunya melalui sebuah bingkai pandangan.
-Semua itu dilakukan dalam upaya untuk menemukan pola acuan dalam berpikir.
+Semua itu dilakukan untuk menemukan pola acuan dalam berpikir.
 
-Semoga apa yang disajikan di ruang ini dapat menambah perspektif saudara dalam
-membangun hari-hari saudara yang belum terjadi di depan.
-
-Sajian yang ada dapat dinikmati 
+Sajian tulisan tersebut dinikmati 
 dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
+
+Semoga apa yang tersaji di ruang ini dapat menambah perspektif saudara dalam
+membangun hari-hari saudara yang belum terjadi di depan.
 
 Kalau saudara ada sedikit keingintahuan tentang penulis,
 saudara bisa membacanya [disini](https://laminseima.github.io/selayangpandang/). 
