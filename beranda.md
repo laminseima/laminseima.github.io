@@ -7,7 +7,7 @@ subtitle: Menjejak Langkah
 
 Selamat datang, ini adalah sebuah ruang yang menyajikan
 jurnal perjalanan (<i>journal of journey</i>) di dalamnya.
-Namun bukan lembar rencana perjalanan (<i>itinerary</i>),
+Bukan lembar rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
 Melainkan tulisan yang lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
