@@ -13,7 +13,7 @@ Melainkan tulisan yang lebih bersifat penelusuran dan penjelajahan (<i>inquiry</
 
 Suatu tindakan yang berusaha hadir di dalam kenyataan yang ada
 dan sadar akan hal-hal yang terjadi di dalamnya.
-Suatu tindakan yang berjalan menjejaki koridor perjalanan
+Suatu tindakan yang berusaha berjalan menjejaki koridor perjalanan
 dan melihat segala sesuatunya melalui sebuah bingkai pandangan.
 Semua itu dilakukan dalam upaya untuk menemukan pola acuan dalam berpikir.
 
