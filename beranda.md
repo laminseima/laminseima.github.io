@@ -5,7 +5,7 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo, mari masuk..</p>
 
-Selamat datang, <i>Lamin Seima</i> adalah sebuah ruang yang menyajikan
+Selamat datang, ini adalah sebuah ruang yang menyajikan
 jurnal perjalanan (<i>journal of journey</i>) di dalamnya.
 Namun bukan pedoman rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
@@ -13,7 +13,7 @@ Melainkan tulisan yang lebih bersifat penelusuran dan penjelajahan (<i>inquiry</
 
 Suatu tindakan yang berusaha hadir di dalam kenyataan yang ada
 dan sadar akan hal-hal yang terjadi di dalamnya.
-Suatu tindakan berjalan menjejaki koridor perjalanan
+Suatu tindakan yang berjalan menjejaki koridor perjalanan
 dan melihat segala sesuatunya melalui sebuah bingkai pandangan.
 Semua itu dilakukan dalam upaya untuk menemukan pola acuan dalam berpikir.
 Apa yang diperoleh dari upaya tersebut ditulis dan disajikan di ruang ini.
