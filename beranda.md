@@ -33,4 +33,4 @@ jangan ragu dan jangan sungkan mengirimkan email [kesini](mailto:ryo.firmananda@
 atau mengirimkan pesan langsung ke media sosial [berikut](https://www.instagram.com/laminseima/).
   
 <p style="text-align:center;">Itu saja kawan, selamat menikmati</p>
-<p style="text-align:center;">(^_^)</p>
+<p style="text-align:center;">&#128513</p>
