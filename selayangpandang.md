@@ -27,7 +27,7 @@ Apa yang Pirsig lakukan sesungguhnya bukan perjalanan geografis belaka.
 Lebih dari itu, ia mengajak dan menyertai kita di dalam suatu tindakan
 menjelajahi dan menyelami kenyataan hidup yang ia jumpai.
 
-Pirsig di dalam karya sastranya ingin mengatakan bahwa seorang manusia
+Pirsig di dalam karya sastranya secara tersirat ingin mengatakan bahwa seorang manusia
 yang melakukan pencarian terhadap diri pribadinya
 dalam suatu fase di dalam hidupnya adalah suatu perjalanan juga.
 Suatu bentuk perjalanan paradigmatis yang menitikberatkan pada usaha untuk menemukan
