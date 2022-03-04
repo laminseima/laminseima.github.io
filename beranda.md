@@ -27,4 +27,4 @@ atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substac
 Kalau saudara ada sedikit keingintahuan tentang penulis,
 saudara bisa membacanya [disini](https://laminseima.github.io/selayangpandang/). 
 
-<p style="text-align:center;">Itu saja kawan, selamat menikmati</p>
+<p style="text-align:center;">Itu saja kawan, selamat menikmati..</p>
