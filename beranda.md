@@ -9,7 +9,7 @@ Selamat datang, ini adalah sebuah ruang yang menyajikan
 jurnal perjalanan (<i>journal of journey</i>).
 Bukan lembar rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
-Melainkan tulisan yang lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
+Melainkan tulisan yang cenderung bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
 Suatu tindakan yang berusaha hadir di dalam kenyataan yang ada
 dan sadar akan hal-hal yang terjadi di dalamnya.
