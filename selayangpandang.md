@@ -57,7 +57,7 @@ Bagi saya, persahabatan yang dihidupkan dengan percakapan dialogis itu lebih sub
 Hal-hal yang mengapung dan tampak di permukaan sejauh ini sudah terlalu menyibukkan.
 Lebih baik menyelam dan berjelajah untuk menemukan makna dan pola acuan. 
 
-Mungkin sudah saatnya kita mencari dan menemukan jawaban darimana dan harus menuju kemana.
+Mungkin sudah saatnya kita mencari dan menemukan jawaban darimana dan harus menuju kemana kita sesungguhnya.
 Selama ini, mungkin hal itu yang kita lupa.
 
 Salam kenal saudara, saya Ryo, semoga kita bisa bertemu di dunia nyata
