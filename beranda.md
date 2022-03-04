@@ -17,8 +17,9 @@ Suatu tindakan yang berusaha berjalan menjejaki koridor perjalanan
 dan melihat segala sesuatunya melalui sebuah bingkai pandangan.
 Semua itu dilakukan dalam upaya untuk menemukan pola acuan dalam berpikir.
 
-Apa yang diperoleh dari upaya-upaya tersebut disajikan di ruang ini.
-Semoga menambah perspektif saudara dalam melanjutkan upaya untuk terus
+Ruang ini berusaha menyajikan apa yang diperoleh
+dari upaya yang dilakukan tersebut.
+Semoga menambah perspektif saudara dalam
 membangun hari-hari saudara yang belum terjadi di depan.
 
 Sajian yang ada dapat dinikmati 
