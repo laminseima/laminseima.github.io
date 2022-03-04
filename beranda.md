@@ -7,7 +7,7 @@ subtitle: Menjejak Langkah
 
 Selamat datang, ini adalah sebuah ruang yang menyajikan
 jurnal perjalanan (<i>journal of journey</i>) di dalamnya.
-Namun bukan pedoman rencana perjalanan (<i>itinerary</i>),
+Namun bukan lembar rencana perjalanan (<i>itinerary</i>),
 bukan juga catatan harian (<i>diary</i>). 
 Melainkan tulisan yang lebih bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
 
@@ -16,10 +16,9 @@ dan sadar akan hal-hal yang terjadi di dalamnya.
 Suatu tindakan yang berjalan menjejaki koridor perjalanan
 dan melihat segala sesuatunya melalui sebuah bingkai pandangan.
 Semua itu dilakukan dalam upaya untuk menemukan pola acuan dalam berpikir.
-Apa yang diperoleh dari upaya tersebut ditulis dan disajikan di ruang ini.
 
-Semoga apa yang tersaji di ruang ini bisa menjadi bahan perenungan
-dan ikut memperkaya perspektif saudara dalam melanjutkan upaya untuk terus
+Apa yang diperoleh dari upaya-upaya tersebut disajikan di ruang ini.
+Semoga apa yang tersaji di ruang ini menambah perspektif saudara dalam melanjutkan upaya untuk terus
 membangun hari-hari saudara yang belum terjadi di depan.
 
 Sajian yang ada dapat dinikmati 
