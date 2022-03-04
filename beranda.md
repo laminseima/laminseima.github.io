@@ -17,7 +17,7 @@ Suatu upaya untuk berjalan menjejaki koridor perjalanan
 dan melihat segala sesuatunya melalui sebuah bingkai pandangan.
 Semua itu dilakukan untuk menemukan pola acuan dalam berpikir.
 
-Sajian tulisan tersebut dinikmati 
+Sajian tulisan tersebut dapat dinikmati 
 dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
