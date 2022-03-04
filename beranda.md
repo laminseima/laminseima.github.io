@@ -18,7 +18,7 @@ dan melihat segala sesuatunya melalui sebuah bingkai pandangan.
 Semua itu dilakukan dalam upaya untuk menemukan pola acuan dalam berpikir.
 
 Apa yang diperoleh dari upaya-upaya tersebut disajikan di ruang ini.
-Semoga apa yang tersaji di ruang ini menambah perspektif saudara dalam melanjutkan upaya untuk terus
+Semoga menambah perspektif saudara dalam melanjutkan upaya untuk terus
 membangun hari-hari saudara yang belum terjadi di depan.
 
 Sajian yang ada dapat dinikmati 
