@@ -3,7 +3,7 @@ layout: page
 title: Lamin Seima
 subtitle: Inscribing The Path
 ---
-<p style="text-align:center;">Hallo, come on in..</b></p>
+<p style="text-align:center;">Hallo, come on in..</p>
 
 Welcome, This a space which serves a journal of journey.
 It is neither an itinerary, nor a diary.
