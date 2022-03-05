@@ -15,10 +15,11 @@ An attempt to walk down the alley
 and see everything through a frame of view.
 All of this is done to find reference patterns of thought.
 
-Enjoy these cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
+The served writing can be enjoyed in concise form on [Medium](https://medium.com/@laminseima) 
 or in more elaborate fashion on [Substack](https://laminseima.substack.com).
 
-The written presentation can be enjoyed in a concise form on Medium
+Hopefully what is served can enrich your perspective
+in an agenda to build your days that haven't happened yet.
 
 If you have a bit curiosity about the host (author), 
 you can read it <a href="https://laminseima.github.io/glimpse/">here</a>.
