@@ -3,11 +3,17 @@ layout: page
 title: Lamin Seima
 subtitle: Inscribing The Path
 ---
-<p style="text-align:center;">Hallo, come on in..</p>
+<p style="text-align:center;">Hallo, welcome, come on in..</p>
 
-Welcome, This a space which serves a journal of journey.
+It is about journal of journey.
 It is neither an itinerary, nor a diary.
-Rather writing that tends to be inquiry.
+Rather writing which tends to be inquiry.
+
+The writing which about an effort to be present
+in the reality that exist and be aware of things that happen in it.
+An attempt to walk down the alley
+and see everything through a frame of view.
+All of this is done to find reference patterns of thought.
 
 Enjoy these cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
 or in more elaborate fashion on [Substack](https://laminseima.substack.com).
