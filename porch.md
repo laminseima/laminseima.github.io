@@ -3,19 +3,18 @@ layout: page
 title: Lamin Seima
 subtitle: Inscribing The Path
 ---
-<p style="text-align:center;">Hallo! come on in!. This is the online home of <b>Lamin Seima</b></p>
+<p style="text-align:center;">Hallo, come on in..</b></p>
 
-> There are cups of thought here which you can enjoy some of those too.
-> Those are served by me myself as a host.
-> I hope these cups of thought help quench your thirst.
-> So that you can continue your efforts to go along build your days that haven't happened yet. 
+Welcome, This a space which serves a journal of journey.
+It is neither an itinerary, nor a diary.
+Rather writing that tends to be inquiry.
 
-> Enjoy these cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
-> or in more elaborate fashion on [Substack](https://laminseima.substack.com).
+Enjoy these cups of thought in concise form on [Medium](https://medium.com/@laminseima) 
+or in more elaborate fashion on [Substack](https://laminseima.substack.com).
 
-<p style="text-align: center;">That's it pals, enjoy it</p>
+The written presentation can be enjoyed in a concise form on Medium
 
-<p style="text-align:center;color:grey;font-size:12px;">
 If you have a bit curiosity about the host (author), 
 you can read it <a href="https://laminseima.github.io/glimpse/">here</a>.
-</p>
+
+<p style="text-align: center;">That's it pals, enjoy it..</p>
