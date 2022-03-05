@@ -3,7 +3,7 @@ layout: page
 title: Lamin Seima
 subtitle: Menjejak Langkah
 ---
-<p style="text-align:center;">Hallo, selmat datang, mari masuk..</p>
+<p style="text-align:center;">Hallo, selamat datang, mari masuk..</p>
 
 Ini tentang jurnal perjalanan (<i>journal of journey</i>).
 Bukan lembar rencana bepergian (<i>itinerary</i>),
