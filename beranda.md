@@ -5,16 +5,17 @@ subtitle: Menjejak Langkah
 ---
 <p style="text-align:center;">Hallo, selamat datang, mari masuk...</p>
 
-Ini tentang jurnal perjalanan (<i>journal of journey</i>).
-Bukan lembar rencana bepergian (<i>itinerary</i>),
-bukan juga catatan harian (<i>diary</i>). 
-Melainkan tulisan yang cenderung bersifat penelusuran dan penjelajahan (<i>inquiry</i>).
+Ini tentang jurnal perjalanan.
+Bukan lembar rencana bepergian,
+bukan juga catatan harian. 
+Melainkan tulisan yang cenderung bersifat penelusuran dan penjelajahan.
 
 Tulisan tentang suatu upaya untuk hadir di dalam kenyataan yang ada
 dan sadar akan hal-hal yang terjadi di dalamnya.
-Suatu upaya untuk berjalan menjejaki koridor suatu jalan
-dan melihat segala sesuatunya melalui sebuah kerangka sudut pandang
-Semua itu dilakukan untuk menemukan pola acuan dalam berpikir.
+Suatu upaya untuk berjalan menjejaki suatu jalan
+dan melihat segala sesuatunya melalui kerangka sudut pandang
+Semua itu dilakukan untuk menemukan pola acuan.
+Pola acuan dalam berpikir, berpendapat, dan bertindak
 
 Sajian tulisan tersebut dapat dinikmati 
 dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
