@@ -5,8 +5,8 @@ subtitle: Inscribing The Path
 ---
 <p style="text-align:center;">Hallo, welcome, come on in...</p>
 
-It is about the journal of a journey.
-It is neither an itinerary nor a diary.
+It is about a journal of the journey.
+That is neither an itinerary nor a diary.
 Rather writing tends to be an inquiry.
 
 The writing which about an effort to be present
