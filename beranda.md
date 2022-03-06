@@ -8,7 +8,7 @@ subtitle: Menjejak Langkah
 Ini tentang jurnal perjalanan.
 Bukan buku rencana bepergian,
 bukan juga catatan harian. 
-Melainkan tulisan yang cenderung bersifat penelusuran dan penjelajahan.
+Melainkan tulisan yang cenderung bersifat penelusuran & penjelajahan.
 
 Tulisan tentang suatu upaya untuk hadir di dalam kenyataan yang ada
 dan sadar akan hal-hal yang terjadi di dalamnya.
