@@ -6,7 +6,7 @@ subtitle: Menjejak Langkah
 <p style="text-align:center;">Hallo, selamat datang, mari masuk...</p>
 
 Ini tentang jurnal perjalanan.
-Bukan lembar rencana bepergian,
+Bukan buku rencana bepergian,
 bukan juga catatan harian. 
 Melainkan tulisan yang cenderung bersifat penelusuran dan penjelajahan.
 
