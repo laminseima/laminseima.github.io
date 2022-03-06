@@ -13,7 +13,7 @@ Melainkan tulisan yang cenderung bersifat penelusuran dan penjelajahan (<i>inqui
 Tulisan tentang suatu upaya untuk hadir di dalam kenyataan yang ada
 dan sadar akan hal-hal yang terjadi di dalamnya.
 Suatu upaya untuk berjalan menjejaki koridor suatu jalan
-dan melihat segala sesuatunya melalui sebuah bingkai sudut pandang
+dan melihat segala sesuatunya melalui sebuah kerangka sudut pandang
 Semua itu dilakukan untuk menemukan pola acuan dalam berpikir.
 
 Sajian tulisan tersebut dapat dinikmati 
