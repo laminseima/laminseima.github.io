@@ -5,17 +5,17 @@ subtitle: Inscribing The Path
 ---
 <p style="text-align:center;">Hallo, welcome, come on in...</p>
 
-It is about a journal of the journey.
-That is neither an itinerary nor a diary.
-Rather writing tends to be an inquiry.
+It is the journal of a journey.
+But it is neither an itinerary nor a diary.
+The writing is more of an inquiry.
 
-The writing which about an effort to be present
+The writing which about an attempt to be present
 in the reality that exists and be aware of things that happen in it.
 An attempt to walk down the corridor of the "course"
 and see everything through a frame of viewpoint.
 All of this is done to find reference patterns of thought.
 
-The served writing can be enjoyed in a concise form on [Medium](https://medium.com/@laminseima)
+The writing can be enjoyed in a concise form on [Medium](https://medium.com/@laminseima)
 or in a more elaborate fashion on [Substack](https://laminseima.substack.com).
 
 Hopefully what is served can enrich your perspective
