@@ -16,7 +16,4 @@ Jurnal ini dapat dinikmati
 dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
-Kalau saudara ada sedikit keingintahuan tentang penulis,
-saudara bisa membacanya [disini](https://laminseima.github.io/selayangpandang/). 
-
 <p style="text-align:center;">Itu saja kawan, selamat menikmati...</p>
