@@ -11,7 +11,7 @@ The writing is more of an inquiry.
 
 The writing which about an attempt to be present
 in the reality that exists and be aware of things that happen in it.
-An attempt to walk down the corridor of the "course"
+An attempt to walk down the "course"
 and see everything through a frame of viewpoint.
 All of this is done to find reference patterns of thought.
 
