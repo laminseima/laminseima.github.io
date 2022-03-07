@@ -8,15 +8,12 @@ subtitle: Menjejak Langkah
 Ini adalah jurnal perjalanan.
 Tetapi bukan buku rencana bepergian,
 bukan juga catatan harian. 
-Melainkan tulisan yang cenderung bersifat penelusuran & penjelajahan.
+Melainkan tulisan yang cenderung bersifat penyelidikan.
 
-Tulisan tentang suatu upaya untuk hadir di dalam kenyataan yang ada
-dan sadar akan hal-hal yang terjadi di dalamnya.
-Suatu upaya untuk berjalan menjejaki suatu jalan
-dan melihat segala sesuatunya melalui sebuah kerangka sudut pandang.
-Semua itu dilakukan untuk menemukan pola acuan dalam berpikir.
+Suatu penyelidikan yang melibatkan tindakan penelusuran dan penjelajahan
+terhadap kenyataan yang ada untuk mencari dan menemukan pola acuan dalam berpikir.
 
-Tulisan tersebut dapat dinikmati 
+Jurnal ini dapat dinikmati 
 dalam bentuk ringkas-padat di [Medium](https://medium.com/@laminseima),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
