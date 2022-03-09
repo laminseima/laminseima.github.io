@@ -15,4 +15,4 @@ to seek and find the reference patterns of thought.
 The journal can be enjoyed in a concise form on [Medium](https://medium.com/@laminseima)
 or in a more elaborate fashion on [Substack](https://laminseima.substack.com).
 
-<p style="text-align: center;">That's it, pals. Enjoy it...</p>
+<p style="text-align: center;">That's it. Enjoy it...</p>
