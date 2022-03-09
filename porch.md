@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lamin Seima
-subtitle: Inscribing The Path
+subtitle: -:-
 ---
 <p style="text-align:center;">Hallo and welcome. Come on in...</p>
 
