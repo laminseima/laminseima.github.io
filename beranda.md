@@ -3,7 +3,7 @@ layout: page
 title: Lamin Seima
 subtitle: -:-
 ---
-<p style="text-align:center;">Hallo dan selamat datang. Mari masuk...</p>
+<p style="text-align:center;">Halo dan selamat datang. Mari masuk...</p>
 
 Ini adalah jurnal perjalanan.
 Tetapi bukan buku rencana bepergian,
