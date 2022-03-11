@@ -3,7 +3,7 @@ layout: page
 title: Lamin Seima
 subtitle: -:-
 ---
-<p style="text-align:center;">Hallo and welcome. Come on in...</p> 
+<p style="text-align:center;">Hello and welcome. Come on in...</p> 
 
 It is the journal of a journey. 
 But it is neither an itinerary nor a diary. 
