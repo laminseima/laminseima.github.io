@@ -48,10 +48,12 @@ h1, h2, h3, h4 {
 }
 a {
   color: {{ site.link-col | default: "#008AFF" }};
+  background-color: #BEE5B0;
 }
 a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
+  background-color: #BEE5B0;
 }
 blockquote {
   color: #808080;
