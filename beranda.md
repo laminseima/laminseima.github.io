@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Lamin Seima
-subtitle: -:-
 ---
 <p style="text-align:center;">Halo dan selamat datang. Mari masuk...</p>
 
