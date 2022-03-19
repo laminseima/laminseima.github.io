@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<br>
 <p style="text-align:center;">Halo dan selamat datang. Mari masuk...</p>
 
 Ini adalah jurnal perjalanan.
