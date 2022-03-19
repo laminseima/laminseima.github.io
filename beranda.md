@@ -17,3 +17,4 @@ dalam bentuk ringkas-padat di [Medium](https://medium.com/@harminbenjamin),
 atau dalam bentuk yang lebih elaboratif di [Substack](https://laminseima.substack.com).
 
 <p style="text-align:center;">Itu saja. Selamat menikmati...</p>
+<br>
