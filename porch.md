@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<br>
 <p style="text-align:center;">Hello and welcome. Come on in...</p> 
 
 It is the journal of a journey. 
@@ -14,3 +15,4 @@ The journal can be enjoyed in a concise form on [Medium](https://medium.com/@har
 or in a more elaborate fashion on [Substack](https://laminseima.substack.com). 
 
 <p style="text-align: center;">That's it. Enjoy it...</p>
+<br>
