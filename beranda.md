@@ -6,7 +6,8 @@ layout: page
 Ini adalah jurnal perjalanan.
 Tetapi bukan buku rencana bepergian,
 bukan juga catatan harian. 
-Melainkan tulisan yang cenderung bersifat penyelidikan.
+Melainkan tulisan yang
+cenderung bersifat penyelidikan.
 Suatu penyelidikan yang melibatkan tindakan penelusuran dan penjelajahan
 terhadap kenyataan yang ada untuk mencari dan menemukan pola acuan dalam berpikir.
 
