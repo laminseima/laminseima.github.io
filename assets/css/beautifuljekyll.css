@@ -382,7 +382,8 @@ footer {
   width:100%;
   /*--- ::: ---*/
   margin-top: 3.125rem;
-  font-size: 0.875rem;
+  /*font-size: 0.875rem;*/
+  font-size: 0.575rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
