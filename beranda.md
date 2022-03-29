@@ -12,7 +12,7 @@ cenderung bersifat penyelidikan.
 Suatu penyelidikan yang melibatkan tindakan penelusuran dan penjelajahan
 terhadap kenyataan yang ada untuk mencari dan menemukan pola acuan dalam berpikir.
 
-Jurnal ini dapat dinikmati di [Substack](https://laminseima.substack.com),
+Jurnal ini dapat dinikmati di [Substack](https://laminseima.substack.com)
 atau di [Medium](https://medium.com/@harminbenjamin).
 
 <p style="text-align:center;">Itu saja. Selamat menikmati...</p>
